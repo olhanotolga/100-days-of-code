@@ -10,3 +10,12 @@
 
 **Today's tweet:** [Public commitment](https://twitter.com/Ajnochka/status/1267488609873145864)
 
+## Day 2: June 2, 2020
+
+**Today's Progress**: Spend some time refactoring my freeCodeCamp Responsive Design projects, e.g. made the navigation menu expansible and collapsible under the certain screen width. (Added an event listener to multiple elements using a for loop.)
+
+**Thoughts:** Need to practice more manipulating DOM with JavaScript. At the moment, it takes a long long time...
+
+**Link to work:** [Tech Documentation with JS Dropdown](https://codepen.io/olhanotolga/full/WNrNbZz)
+
+**Today's tweet:** [Day 2](https://twitter.com/Ajnochka/status/1267905366895067143)
