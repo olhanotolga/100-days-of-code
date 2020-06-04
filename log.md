@@ -25,3 +25,11 @@
 **Thoughts:** I need to learn to think more about the logic as well as overall structure. Exercising patience (and also learning) will help me come up with more complex solutions.
 
 **Link to work:** [Basic to-do list with tooltips](https://codepen.io/olhanotolga/full/qBbBgPR)
+
+## Day 4: June 4, 2020
+
+**Today's Progress:** Spend several hours polishing one of my projects — a knowledge base for subtitlers working for the Molodist Film Festival (Kyiv, Ukraine). The project itself is built with Flask, which renders Jinja-enclosed Bootstrap-powered HTML templates. I mostly worked with text and styles, converting everything into Ukrainian and finalizing the readme file for the GitHub repo page. I also re-deployed it to Python Anywhere, so that it's up to date.
+
+**Thoughts:** It's increadible how I managed to forget so much of what I was actively doing a few months ago! On the other hand, I now have a better understanding of what I'm doing (wrong), why, and how to fix it :)
+
+**Link to work:** [Molodist Subtitlers (GitHub repo)](https://github.com/olhanotolga/molodist-subtitlers)
