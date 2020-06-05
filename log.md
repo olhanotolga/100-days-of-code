@@ -33,3 +33,11 @@
 **Thoughts:** It's increadible how I managed to forget so much of what I was actively doing a few months ago! On the other hand, I now have a better understanding of what I'm doing (wrong), why, and how to fix it :)
 
 **Link to work:** [Molodist Subtitlers (GitHub repo)](https://github.com/olhanotolga/molodist-subtitlers)
+
+## Day 5: June 5, 2020
+
+**Today's Progress:** I finally started learning Regex on freeCodeCamp because I want to later apply it in my project, which is a knowledge base for film festival translators. Alongside the fCC exercises, I put together a pen where I check user input with a simple regex (a set of words separated by the alternation operator) and output if she/he is a hipster or not. It was also more DOM practice.
+
+**Thoughts:** My current use case of regex is primitive. Still, I had fun :)
+
+**Link to work:** [Are you a hipster? (CodePen)](https://codepen.io/olhanotolga/full/ZEQYqKN)
