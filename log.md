@@ -49,3 +49,11 @@
 **Thoughts:** I feel weird because my solution to the fCC challenge looks way more complicated than it seems it should be...
 
 **Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 7: June 7, 2020
+
+**Today's Progress:** Went through a few more regex exercises on freeCodeCamp. Refactored yesterday's username-checking challenge and put together another pen that checks if input contains multiple spaces in a row.
+
+**Thoughts:** It gets more interesting with regex. Will definitely look for more resources on this later.
+
+**Link to work:** [Finding redundant spaces: CodePen](https://codepen.io/olhanotolga/full/xxZGeLJ)
