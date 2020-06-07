@@ -41,3 +41,11 @@
 **Thoughts:** My current use case of regex is primitive. Still, I had fun :)
 
 **Link to work:** [Are you a hipster? (CodePen)](https://codepen.io/olhanotolga/full/ZEQYqKN)
+
+## Day 6: June 6, 2020
+
+**Today's Progress:** Did not have much time, so I continued learning regex on freeCodeCamp. Got stuck on the challenge (Restrict Possible Usernames), had to look up the possible solution.
+
+**Thoughts:** I feel weird because the solution to the fCC challenge looks way more complicated than it seems it should be...
+
+**Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
