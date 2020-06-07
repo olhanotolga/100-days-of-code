@@ -46,6 +46,6 @@
 
 **Today's Progress:** Did not have much time, so I continued learning regex on freeCodeCamp. Got stuck on the challenge (Restrict Possible Usernames), had to look up the possible solution.
 
-**Thoughts:** I feel weird because the solution to the fCC challenge looks way more complicated than it seems it should be...
+**Thoughts:** I feel weird because my solution to the fCC challenge looks way more complicated than it seems it should be...
 
 **Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
