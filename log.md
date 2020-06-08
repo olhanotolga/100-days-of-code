@@ -57,3 +57,11 @@
 **Thoughts:** It gets more interesting with regex. Will definitely look for more resources on this later.
 
 **Link to work:** [Finding redundant spaces: CodePen](https://codepen.io/olhanotolga/full/xxZGeLJ)
+
+## Day 8: June 8, 2020
+
+**Today's Progress:** Done the rest of the regex exercises on freeCodeCamp. Upgraded yesterday's tool to not just find multiple spaces in a row but remove redundant spaces (also before commas, periods etc.).
+
+**Thoughts:** Regex is both fun and frustrating. "Back in the day" I thought making a redundant space remover would be super simple. It kind of is ...not.
+
+**Link to work:** [Removing redundant spaces: CodePen](https://codepen.io/olhanotolga/full/xxZGeLJ)
