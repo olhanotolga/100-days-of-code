@@ -65,3 +65,11 @@
 **Thoughts:** Regex is both fun and frustrating. "Back in the day" I thought making a redundant space remover would be super simple. It kind of is ...not.
 
 **Link to work:** [Removing redundant spaces: CodePen](https://codepen.io/olhanotolga/full/xxZGeLJ)
+
+## Day 9: June 9, 2020
+
+**Today's Progress:** Created the layout for a JS calculator (a current project with FrauenLoop), done the debugging exercises on freeCodeCamp, and coded along a JS-based color guessing game. Will be debugging the latter tomorrow.
+
+**Thoughts:** Had fun coding along a game but found it a bit frustrating that I didn't have (allow myself) the time to think ahead. Also frustrating that my H1 background color does not reset to the initial one!
+
+**Link to work:** [JS Calculator (repo)](https://github.com/olhanotolga/js-calculator)
