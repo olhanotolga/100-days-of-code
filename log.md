@@ -76,7 +76,7 @@
 
 ## Day 10: June 10, 2020
 
-**Today's Progress:** Did exercises on freeCodeCamp (data structures), learned a bit of bash scripting, and played around with the look and feel of the color game. Fixed the issue with the h1 — "steelblue" turned out to be an invalid name for JS.
+**Today's Progress:** Did exercises on freeCodeCamp (data structures), learned a bit of bash scripting, and played around with the look and feel of the color game. Fixed the issue with the h1 — "steelblue" turned out to be an invalid color name for JS.
 
 **Thoughts:** Learned something, did something fun. Not a bad day :)
 
