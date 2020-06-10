@@ -73,3 +73,11 @@
 **Thoughts:** Had fun coding along a game but found it a bit frustrating that I didn't have (allow myself) the time to think ahead. Also frustrating that my H1 background color does not reset to the initial one!
 
 **Link to work:** [JS Calculator (repo)](https://github.com/olhanotolga/js-calculator)
+
+## Day 10: June 10, 2020
+
+**Today's Progress:** Did exercises on freeCodeCamp (data structures), learned a bit of bash scripting, and played around with the look and feel of the color game. Fixed the issue with the h1 — "steelblue" turned out to be an invalid name for JS.
+
+**Thoughts:** Learned something, did something fun. Not a bad day :)
+
+**Link to work:** [Color guessing game](https://codepen.io/olhanotolga/full/poggQQX)
