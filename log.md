@@ -81,3 +81,11 @@
 **Thoughts:** Learned something, did something fun. Not a bad day :)
 
 **Link to work:** [Color guessing game](https://codepen.io/olhanotolga/full/poggQQX)
+
+## Day 11: June 11, 2020
+
+**Today's Progress:** After spending some time on bash exercises, I switched back to the color game. Managed to change the styling a bit more and added an expansible & collapsible rules block.
+
+**Thoughts:** I have a feeling that I'll spend some time on customizing that color game.
+
+**Link to work:** [Color guessing game](https://codepen.io/olhanotolga/full/poggQQX)
