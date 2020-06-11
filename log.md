@@ -84,7 +84,7 @@
 
 ## Day 11: June 11, 2020
 
-**Today's Progress:** After spending some time on bash exercises, I switched back to the color game. Managed to change the styling a bit more and added an expansible & collapsible rules block.
+**Today's Progress:** Finally created aliases for the paths to my most frequently worked in directories! After spending some time on bash exercises, I switched back to the color game. Managed to change the styling a bit more and added an expansible & collapsible rules block.
 
 **Thoughts:** I have a feeling that I'll spend some time on customizing that color game.
 
