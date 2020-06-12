@@ -89,3 +89,11 @@
 **Thoughts:** I have a feeling that I'll spend some time on customizing that color game.
 
 **Link to work:** [Color guessing game](https://codepen.io/olhanotolga/full/poggQQX)
+
+## Day 12: June 12, 2020
+
+**Today's Progress:** Spend a few hours doing Basic Data Structures exercises on freeCodeCamp. Not without a struggle.
+
+**Thoughts:** I feel that it's enough for today.
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
