@@ -97,3 +97,11 @@
 **Thoughts:** I feel that it's enough for today.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 13: June 13, 2020
+
+**Today's Progress:** Watched the Udemy Web Dev course, sections on jQuery. Played around with it a bit. Nothing serious.
+
+**Thoughts:** I keep hearing that it's not worth learning jQuery. Still, I'd stumbled upon so much of it when looking up JS-related things that knowing it does more good than harm.
+
+**Link to work:** [a silly pen](https://codepen.io/olhanotolga/full/YzwWQNy)
