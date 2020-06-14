@@ -105,3 +105,11 @@
 **Thoughts:** I keep hearing that it's not worth learning jQuery. Still, I'd stumbled upon so much of it when looking up JS-related things that knowing it does more good than harm.
 
 **Link to work:** [a silly pen](https://codepen.io/olhanotolga/full/YzwWQNy)
+
+## Day 14: June 14, 2020
+
+**Today's Progress:** Watched the MIT lecture on Data Wrangling, tried a few things on the command line. Did a few challenges on SoloLearn.
+
+**Thoughts:** Thinking about a regex project I'm about to start (mostly about how to approach it), also about primitive data types in JS and how tricky they can be.
+
+**Link to work:** [link on the MIT lecture](https://missing.csail.mit.edu/2020/data-wrangling/), [my SoloLearn profile](https://www.sololearn.com/Profile/17065020/)
