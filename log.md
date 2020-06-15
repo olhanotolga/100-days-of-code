@@ -113,3 +113,11 @@
 **Thoughts:** Thinking about a regex project I'm about to start (mostly about how to approach it), also about primitive data types in JS and how tricky they can be.
 
 **Link to work:** [link on the MIT lecture](https://missing.csail.mit.edu/2020/data-wrangling/), [my SoloLearn profile](https://www.sololearn.com/Profile/17065020/)
+
+## Day 15: June 15, 2020
+
+**Today's Progress:** Practiced constructing quick regex patterns with [RegexOne](https://regexone.com/), then coded the JS calculator during today's FrauenLoop class. Aside from JS-related stuff, learned about the value and type attributes within the button element.
+
+**Thoughts:** Although a calculator is considered to be beginner-friendly and super basic, it takes quite some time for a new to grasp it. Lots of 'oh wow!' moments.
+
+**Link to work:** [JS calculator](https://github.com/olhanotolga/js-calculator)
