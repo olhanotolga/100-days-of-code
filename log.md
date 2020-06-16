@@ -121,3 +121,11 @@
 **Thoughts:** Although a calculator is considered to be beginner-friendly and super basic, it takes quite some time for a new to grasp it. Lots of 'oh wow!' moments.
 
 **Link to work:** [JS calculator](https://github.com/olhanotolga/js-calculator)
+
+## Day 16: June 16, 2020
+
+**Today's Progress:** A friend of mine suggested that I contribute to his project, for which I need to know the basics of Vue.js. So, really, all I did is watched the Vue.js tutorial and played around with my first primitive app.
+
+**Thoughts:** Lots of excitement about the upcoming project, as well as lots of frustration because of going back to watching tutorials.
+
+**Link to work:** [Link to the intro to Vue.js on Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/components)
