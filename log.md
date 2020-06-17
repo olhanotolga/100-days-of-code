@@ -129,3 +129,11 @@
 **Thoughts:** Lots of excitement about the upcoming project, as well as lots of frustration because of going back to watching tutorials.
 
 **Link to work:** [Link to the intro to Vue.js on Vue Mastery](https://www.vuemastery.com/courses/intro-to-vue-js/components)
+
+## Day 17: June 17, 2020
+
+**Today's Progress:** Continued the Vue.js tutorial from yesterday, tried to understand how components are interconnected with each other and with my HTML document (it turned out I should have left the latter alone).
+
+**Thoughts:** I was frustrated because I couldn't seem to understand Vue's basic concepts (until I found out that you nest components within templates of parental components...). I swear I'll do something better yesterday!
+
+**Link to work:** [Link to the intro Vue.js course, once again](https://www.vuemastery.com/courses/intro-to-vue-js/components)
