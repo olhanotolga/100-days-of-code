@@ -137,3 +137,11 @@
 **Thoughts:** I was frustrated because I couldn't seem to understand Vue's basic concepts (until I found out that you nest components within templates of parental components...). I swear I'll do something better yesterday!
 
 **Link to work:** [Link to the intro Vue.js course, once again](https://www.vuemastery.com/courses/intro-to-vue-js/components)
+
+## Day 18: June 18, 2020
+
+**Today's Progress:** Finished the Vue.js tutorial from yesterday, still trying to understand the relationship between components and continuing to build my 'hello-world' app.
+
+**Thoughts:** This will take quite some time...
+
+**Link to work:** [Link to the intro Vue.js course, once again](https://www.vuemastery.com/courses/intro-to-vue-js/components) (keeping my hello-world app locally atm)
