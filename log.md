@@ -145,3 +145,11 @@
 **Thoughts:** This will take quite some time...
 
 **Link to work:** [Link to the intro Vue.js course, once again](https://www.vuemastery.com/courses/intro-to-vue-js/components) (keeping my hello-world app locally atm)
+
+## Day 19: June 19, 2020
+
+**Today's Progress:** More Vue.js today — this time with Scrimba & documentation. Playing around with my app, managed to transfer certain blocks of code (together with all their functionality, of course) into separate components. Outlined my next regex tool (for checking the order of timecodes in subtitles). Solved a simple coding problem on SoloLearn.
+
+**Thoughts:** Vue.js is still very frustrating but getting interesting. I should start with less code and relations' diagrams next time.
+
+**Link to work:** [Remove spaces from a string challenge](https://codepen.io/olhanotolga/full/JjGEeqw)
