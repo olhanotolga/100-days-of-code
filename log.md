@@ -153,3 +153,11 @@
 **Thoughts:** Vue.js is still very frustrating but getting interesting. I should start with less code and relations' diagrams next time.
 
 **Link to work:** [Remove spaces from a string challenge](https://codepen.io/olhanotolga/full/JjGEeqw)
+
+## Day 20: June 20, 2020
+
+**Today's Progress:** Troubleshooting my hello-world Vue.js app. Couldn't figure out why reviews weren't displaying once I submitted them. Turned out the mounted function responsible for this was lost among the methods (while it should have been a method of its own within the Vue component).
+
+**Thoughts:** I've got too much code for a start, ugly reviews form, and the app itself makes little sense... :)
+
+**Link to work:** [Screenshot on Twitter](https://twitter.com/Ajnochka/status/1274471569147015175)
