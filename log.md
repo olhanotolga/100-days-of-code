@@ -161,3 +161,11 @@
 **Thoughts:** I've got too much code for a start, ugly reviews form, and the app itself makes little sense... :)
 
 **Link to work:** [Screenshot on Twitter](https://twitter.com/Ajnochka/status/1274471569147015175)
+
+## Day 21: June 21, 2020
+
+**Today's Progress:** Did some styling (and also conditional class-binding) of my hello-world Vue.js app. The reviews section looks much much better and makes more sense, at least visually.
+
+**Thoughts:** Decided to take a break today from trying to learn everything and also from scolding myself for not having accomplished greatness and ultimate wisdom.
+
+**Link to work:** [Screenshot on Twitter](https://twitter.com/Ajnochka/status/1274818924874477569)
