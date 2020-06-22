@@ -169,3 +169,11 @@
 **Thoughts:** Decided to take a break today from trying to learn everything and also from scolding myself for not having accomplished greatness and ultimate wisdom.
 
 **Link to work:** [Screenshot on Twitter](https://twitter.com/Ajnochka/status/1274818924874477569)
+
+## Day 22: June 22, 2020
+
+**Today's Progress:** Continued working on the JS calculator. During the FrauenLoop session, refactored a few functions and practiced unit testing with jest. Then added functionality to operate multiple-digit numbers and display them on the calculator screen. Woohoo! Still missing some important calculator functionality but the main chunk is done.
+
+**Thoughts:** Thought that I'm juggling too many projects at once.
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
