@@ -177,3 +177,28 @@
 **Thoughts:** Thought that I'm juggling too many projects at once.
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
+
+## Day 23: June 23, 2020
+
+**Today's Progress:** More work on my JS calculator, crossing items off the to-do list:
+
+- enable the +/- (sign changing) button
+- enable the , (floating point) button
+- enable the % (percentage) button
+- add and enable the ^ (square root) button
+- rearrange the buttons in a more efficient way
+- add an easter egg animation
+- enable operations with the result (i.e. not reset upon pressing "=")
+
+Currently, I've managed to implement the first three list items but with drawbacks.
+
+For example, there are several issues with floats:
+
+1. you can't use the floating point in a number twice
+2. zero character after the floating point should be concatenated (not evaluated)
+
+And another issue with +/-: you can't currently use it twice in the very beginning, before the input is set. Reason: the program is trying to evaluate "--" as a Number. Will fix later.
+
+**Thoughts:** I'm going nice and slow today.
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
