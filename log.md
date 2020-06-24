@@ -202,3 +202,11 @@ And another issue with +/-: you can't currently use it twice in the very beginni
 **Thoughts:** I'm going nice and slow today.
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
+
+## Day 24: June 24, 2020
+
+**Today's Progress:** Solved problems from the Basic Algorithm Scripting section on freeCodeCamp. Learned and used a bunch of array and string methods I didn't know about.
+
+**Thoughts:** Was really exciting to solve these problems. It's awesome there are tests that serve as hints to solutions. In reality, I need to start thinking about things like use cases on my own.
+
+**Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
