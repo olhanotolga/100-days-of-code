@@ -214,6 +214,7 @@ And another issue with +/-: you can't currently use it twice in the very beginni
 ## Day 25: June 25, 2020
 
 **Today's Progress:** Tidying up my JS calculator.
+
 Made sure that:
 
 - one can't create numbers with more than 1 floating point
@@ -229,6 +230,7 @@ Remaining issues:
 
 - remove zeroes from the beginning of the input string except a single zero that precedes "."
 - remove zeroes from the end of the result number if result is a float (!Number.isInteger(result))
+
 ...
 
 **Thoughts:** Wow, a day of breaking and making things!
