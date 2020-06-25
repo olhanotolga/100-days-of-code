@@ -180,7 +180,7 @@
 
 ## Day 23: June 23, 2020
 
-**Today's Progress:** More work on my JS calculator, crossing items off the to-do list:
+**Today's Progress:** More work on my JS calculator, crossing the first 3 items off the following to-do list:
 
 - enable the +/- (sign changing) button
 - enable the , (floating point) button
@@ -190,7 +190,7 @@
 - add an easter egg animation
 - enable operations with the result (i.e. not reset upon pressing "=")
 
-Currently, I've managed to implement the first three list items but with drawbacks.
+There were also drawbacks.
 
 For example, there are several issues with floats:
 
@@ -210,3 +210,27 @@ And another issue with +/-: you can't currently use it twice in the very beginni
 **Thoughts:** Was really exciting to solve these problems. It's awesome there are tests that serve as hints to solutions. In reality, I need to start thinking about things like use cases on my own.
 
 **Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 25: June 25, 2020
+
+**Today's Progress:** Tidying up my JS calculator.
+Made sure that:
+
+- one can't create numbers with more than 1 floating point
+- one can't add a floating point after having turned input into percent. so, clicking '%' checks if input < 1. if yes, can't use ','
+- 0.20 is a valid number and inputs like 0.30303 are possible (fixed by converting inputs to numbers at calculation, not before)
+- once "+/-" is clicked before input is set, "-" is displayed. upon the 2nd click on "+/-", "-" is replaced with 0
+- -0 and similar should be replaced with 0. for now, I'm updating the display once operator is set
+- because of a confusion with truthy & falsy values, I managed to replace input1 with input2 if input1 was equal to 0. fixed by changing the condition from (!input1) to (input1 == undefined)
+
+Also, implemented animation which activates once you divide by zero. Will work on its improvement (e.g. separation of concerns) later.
+
+Remaining issues:
+
+- remove zeroes from the beginning of the input string except a single zero that precedes "."
+- remove zeroes from the end of the result number if result is a float (!Number.isInteger(result))
+...
+
+**Thoughts:** Wow, a day of breaking and making things!
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
