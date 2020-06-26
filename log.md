@@ -236,3 +236,13 @@ Remaining issues:
 **Thoughts:** Wow, a day of breaking and making things!
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
+
+## Day 26: June 26, 2020
+
+**Today's Progress:** Not much: spotted an issue with the JS calculator on mobile (Safari) — the digit buttons were displayed with a dark background. It was alright on desktop (although Safari displayed them a bit differently) and on mobile Chrome. The isuue resolved aftre I explicitly added a CSS rule for the digit buttons' background-color property.
+
+Apart from that, I separated concerns in my JS animation (division by zero). Instead of changing styles of elements, I added classes (predefined with CSS).
+
+**Thoughts:** I should probably test things more :)
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
