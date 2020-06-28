@@ -246,3 +246,13 @@ Apart from that, I separated concerns in my JS animation (division by zero). Ins
 **Thoughts:** I should probably test things more :)
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
+
+## Day 27-28: June 27-28, 2020
+
+**Today's Progress:** Two days in one: had a physically active weekend, so didn't code much. Did a challenge on SoloLearn, started the 10 daily JS challenges on Scrimba.com, did the first one.
+
+However, I still managed to make opeartions with results possible in my JS calculator. Now it feels more like a proper calculator app. A lot of refactoring needs to be done.
+
+**Thoughts:** Feel bad about not doing much this weekend, especially considering that my year-long course starts tomorrow (which means I'll have much less time on my projects). On the other hand, it's nice to be able to take a rest once in a while.
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
