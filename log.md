@@ -256,3 +256,15 @@ However, I still managed to make opeartions with results possible in my JS calcu
 **Thoughts:** Feel bad about not doing much this weekend, especially considering that my year-long course starts tomorrow (which means I'll have much less time on my projects). On the other hand, it's nice to be able to take a rest once in a while.
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/index.html)
+
+## Day 29: June 29, 2020
+
+**Today's Progress:** Started learning React, as it's part of our FrauenLoop program. Got stuck in the beginning when setting up my project. Turned out I had webpack installed as a node module in my home directory, which conflicted with dependencies in my project.
+
+This time, I'm learning by refactoring my current project, the calculator app, and rewriting it from vanilla JS to React. Realized that I really need to do a major cleanup before continuing.
+
+Also, solved a challenge on Scrimba.
+
+**Thoughts:** I want more time, or, probably, better prioritizing.
+
+**Link to work:** really, nothing to show today.
