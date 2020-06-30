@@ -268,3 +268,11 @@ Also, solved a challenge on Scrimba.
 **Thoughts:** I want more time, or, probably, better prioritizing.
 
 **Link to work:** really, nothing to show today.
+
+## Day 30: June 30, 2020
+
+**Today's Progress:** Practiced CLI file system navigation commands, solved a JS challenge on Scrimba, started OOP on freeCodeCamp, and — finally - started working on my Timecode Checker! I think I'm getting somewhere little by little.
+
+**Thoughts:** Prioritizing worked, now need to stick to it :)
+
+**Link to work:** ![screenshot: subtitle checker](screenshots/timecode-checker-1.png)
