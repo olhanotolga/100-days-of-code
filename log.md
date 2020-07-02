@@ -284,3 +284,15 @@ Also, solved a challenge on Scrimba.
 **Thoughts:** Will be super awesome if I finish the Timecode Checker and deploy it together with Space Remover this week!
 
 **Link to work:** ![screenshot: timecode checker progress](screenshots/timecode-checker-2.png)
+
+## Day 32: July 2, 2020
+
+**Today's Progress:** Today's theme was package managers — that's how I finally learned what Homebrew was. I think I even helped a classmate (who also uses macOS, not Ubuntu). Installed Zsh, will try it out at some point later.
+
+Solved a challenge on Scrimba — a primitive palindrome checker.
+
+Can't do more.
+
+**Thoughts:** Hopefully, I'll get to real coding tomorrow.
+
+**Link to work:** ![screenshot: palindrome checker progress](screenshots/scrimba-palindrome-checker.png)
