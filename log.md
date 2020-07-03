@@ -296,3 +296,13 @@ Can't do more.
 **Thoughts:** Hopefully, I'll get to real coding tomorrow.
 
 **Link to work:** ![screenshot: palindrome checker progress](screenshots/scrimba-palindrome-checker.png)
+
+## Day 33: July 3, 2020
+
+**Today's Progress:** Solved a challenge on Scrimba — was to suggest 3 ways to write a function that wraps a pair of parentheses around a string. I used basic concatenation, a string concat() method, and an array join() method.
+
+Did a few challenges on freeCodeCamp (Object-oriented JavaScript).
+
+**Thoughts:** No working on projects today. Now I really hope to change it tomorrow :)
+
+**Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
