@@ -306,3 +306,12 @@ Did a few challenges on freeCodeCamp (Object-oriented JavaScript).
 **Thoughts:** No working on projects today. Now I really hope to change it tomorrow :)
 
 **Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 34: July 4, 2020
+
+**Today's Progress:** Solved a CSS and JS challenge on Scrimba — this [https://scrimba.com/c/ce9zL7Hp]
+and this one [https://scrimba.com/c/cMZJkVT9], respectively. Did a few challenges on freeCodeCamp (Object-oriented JavaScript). Broke my brain a little bit on the prototype chains...
+
+**Thoughts:** "Because a prototype is an object, a prototype can have its own prototype!" has definitely made my day (and probably changed my life).
+
+**Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
