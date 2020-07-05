@@ -315,3 +315,11 @@ and this one [https://scrimba.com/c/cMZJkVT9], respectively. Did a few challenge
 **Thoughts:** "Because a prototype is an object, a prototype can have its own prototype!" has definitely made my day (and probably changed my life).
 
 **Link to work:** [my freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 35: July 5, 2020
+
+**Today's Progress:** Worked a bit on my timecode checker. Tidied up the style and functionality. Tried to refactor the functions but I'm bumping into some scope issues, which I'll need to explore separately.
+
+**Thoughts:** Now, what's left is deploy!
+
+**Link to work:** ![screenshot: timecode checker](screenshots/timecode-checker-3.png)
