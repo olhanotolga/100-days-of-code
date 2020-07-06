@@ -323,3 +323,11 @@ and this one [https://scrimba.com/c/cMZJkVT9], respectively. Did a few challenge
 **Thoughts:** Now, what's left is deploy!
 
 **Link to work:** ![screenshot: timecode checker](screenshots/timecode-checker-3.png)
+
+## Day 36: July 6, 2020
+
+**Today's Progress:** Refactoring my calculator apps: modifying functions in the JS calculator, so that multiple operations can be done without resetting; rewriting the React calculator — learning about function components and class components.
+
+**Thoughts:** I think I'm getting confused with the logic: need to sit down and think the functionality through.
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/)
