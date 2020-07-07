@@ -331,3 +331,18 @@ and this one [https://scrimba.com/c/cMZJkVT9], respectively. Did a few challenge
 **Thoughts:** I think I'm getting confused with the logic: need to sit down and think the functionality through.
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/)
+
+## Day 37: July 7, 2020
+
+**Today's Progress:** Solved the [last challenge on Scrimba](https://scrimba.com/c/cMZmreUP) and moved on to my projects: pushed the two regex tools for film subtitlers to GitHub linking to them in a newly created index page. Looks OK for now.
+
+Learned about .gitignore. Turns out, it only prevents specified files from being added in the future; to untrack them, they need to be explicitly removed with:
+
+```bash
+git rm --cached <file>
+git rm -r --cached <folder>
+```
+
+**Thoughts:** It's so exciting to actually have made something that I will soon use myself!
+
+**Link to work:** [Subtitlers' tools](https://olhanotolga.github.io/subtitle-tools/)
