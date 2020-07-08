@@ -356,7 +356,7 @@ chmod -R +w <repo>
 rm -r <repo>
 ```
 
-Learned a good use case of the remainder (from the [scrimba challenges set](https://github.com/scrimba/community/blob/master/THANKS.md)). The following function returns the max integer that is divisible by _divisor_ and is smaller or equal to _bound_.
+Learned a good use case of the remainder (from the [scrimba challenges set](https://jschallenge2.scrimba.com/)). The following function returns the max integer that is divisible by _divisor_ and is smaller or equal to _bound_.
 
 ```JavaScript
 function maxMultiple(divisor, bound) {
