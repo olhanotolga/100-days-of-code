@@ -346,3 +346,25 @@ git rm -r --cached <folder>
 **Thoughts:** It's so exciting to actually have made something that I will soon use myself!
 
 **Link to work:** [Subtitlers' tools](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 38: July 8, 2020
+
+**Today's Progress:** Nothing special today, was practicing creating git repos, pushing them to GitHub, pulling, cloning, forking... Learned that git repos can be removed only after changing permissions:
+
+```bash
+chmod -R +w <repo>
+rm -r <repo>
+```
+
+Learned a good use case of the remainder (from the [scrimba challenges set](https://github.com/scrimba/community/blob/master/THANKS.md)). The following function returns the max integer that is divisible by _divisor_ and is smaller or equal to _bound_.
+
+```JavaScript
+function maxMultiple(divisor, bound) {
+    const remainder = bound % divisor;
+    return bound - remainder;
+}
+```
+
+**Thoughts:** I want to spend more time omn my projects but I end up being tired and not wanting to do anything...
+
+**Link to work:** No link today. See commits.
