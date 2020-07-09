@@ -368,3 +368,11 @@ function maxMultiple(divisor, bound) {
 **Thoughts:** I want to spend more time omn my projects but I end up being tired and not wanting to do anything...
 
 **Link to work:** No link today. See commits.
+
+## Day 39: July 9, 2020
+
+**Today's Progress:** Had more practice with git and GitHub, then did some work on my JS calculator. It allows now performing chained operations without the necessity to press "=". Also, if pressing "=" is followed by pressing a digit button, inouts and the screen are reset.
+
+**Thoughts:** Finally managed to spend enough time thinking about the logic of the thing. Still not sure I got it absolutely right though.
+
+**Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/)
