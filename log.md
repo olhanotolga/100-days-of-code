@@ -376,3 +376,19 @@ function maxMultiple(divisor, bound) {
 **Thoughts:** Finally managed to spend enough time thinking about the logic of the thing. Still not sure I got it absolutely right though.
 
 **Link to work:** [JS Calculator](https://olhanotolga.github.io/js-calculator/)
+
+## Day 40: July 10, 2020
+
+**Today's Progress:** Worked on my JS Calculator the whole day:
+
+- disabled, or at least I think so, trailing zeros in floats;
+- limited the number of digits after the floating point;
+- disabled multiple zeros at the start of displayed inputs;
+- added a function (+ button) that reverses the breakdown animation;
+- did some cosmetic fixes.
+
+Did a few challenges on freeCodeCamp (OOP).
+
+**Thoughts:** The calculator is working more or less as I wanted it to! (I'm getting super excited and motivated, also very discouraged when something goes wrong. But mostly encouraged because, hey, it's working!)
+
+**Link to work:** [JS Calculator, repo](https://github.com/olhanotolga/js-calculator)
