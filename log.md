@@ -392,3 +392,35 @@ Did a few challenges on freeCodeCamp (OOP).
 **Thoughts:** The calculator is working more or less as I wanted it to! (I'm getting super excited and motivated, also very discouraged when something goes wrong. But mostly encouraged because, hey, it's working!)
 
 **Link to work:** [JS Calculator, repo](https://github.com/olhanotolga/js-calculator)
+
+## Day 41: July 11, 2020
+
+**Today's Progress:** Finished the object-oriented programming block of challenges on freeCodeCamp.
+
+Couldn't figure out why I should use an IIFE in the last challenge (I could just have created a variable and assigned an object with two mixings as methods to it):
+
+```JavaScript
+let funModule = (function () {
+  return {
+    isCuteMixin: function(obj) {
+      obj.isCute = function() {
+        return true;
+      };
+    },
+    singMixin: function(obj) {
+      obj.sing = function() {
+        console.log("Singing to an awesome tune");
+      };
+    }
+  }
+})();
+```
+
+The reply on the fCC forum was that containing the contents (e.g. variables, methods, properties, etc.) within a function:
+
+- makes more sense in function-scoped JS
+- is much more secure (there is no external access to the mixins object)
+
+**Thoughts:** I thought today that I need to learn more about scopes in JS (including concepts such as _this_, closure)
+
+**Link to work:** ![screenshot: message that I finished the OOP module on freeCodeCamp](screenshots/oop-completed.png)
