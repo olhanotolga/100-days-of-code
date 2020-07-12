@@ -424,3 +424,13 @@ The reply on the fCC forum was that containing the contents (e.g. variables, met
 **Thoughts:** I thought today that I need to learn more about scopes in JS (including concepts such as _this_, closure)
 
 **Link to work:** ![screenshot: message that I finished the OOP module on freeCodeCamp](screenshots/oop-completed.png)
+
+## Day 42: July 12, 2020
+
+**Today's Progress:** Updated the styling within my subtitle tools repo, added media queries, adjusted font size, fixed typos.
+
+Added a link to the new tools in the [Molodist Subtitlers project](https://olhanotolga.pythonanywhere.com) (Tools section). Almost forgot how to open a Flask project.
+
+**Thoughts:** Oops, forgot that I wanted to make another tool for checking .srt files, the one that would output a warning if any of the subtitles takes up 3 lines.
+
+**Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
