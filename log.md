@@ -441,4 +441,4 @@ Added a link to the new tools in the [Molodist Subtitlers project](https://olhan
 
 **Thoughts:** A bit exhausted with React.
 
-**Link to work:** No link today. See commits.
+**Link to work:** No link today.
