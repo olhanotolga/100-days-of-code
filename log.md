@@ -434,3 +434,11 @@ Added a link to the new tools in the [Molodist Subtitlers project](https://olhan
 **Thoughts:** Oops, forgot that I wanted to make another tool for checking .srt files, the one that would output a warning if any of the subtitles takes up 3 lines.
 
 **Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 43: July 13, 2020
+
+**Today's Progress:** Spent the whole day learning React: first, some documentation and a course on egghead.io, then tried to rewrite my JS calculator as a React class component. Not all smooth. Will try more tomorrow.
+
+**Thoughts:** A bit exhausted with React.
+
+**Link to work:** No link today. See commits.
