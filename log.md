@@ -442,3 +442,11 @@ Added a link to the new tools in the [Molodist Subtitlers project](https://olhan
 **Thoughts:** A bit exhausted with React.
 
 **Link to work:** No link today.
+
+## Day 44: July 14, 2020
+
+**Today's Progress:** Learned Functional Programming on freeCodeCamp. After that, made another tool for .srt subtitles proofreading. It checks if any of the subtitles consist of 3 lines and—if yes—returns a list of subtitles that need attention.
+
+**Thoughts:** Maybe it's time to implements some of the concepts from OOP and FP that I've been learning?
+
+**Link to work:** [Subtitlers' Tools — repo](https://github.com/olhanotolga/subtitle-tools)
