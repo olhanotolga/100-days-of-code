@@ -450,3 +450,13 @@ Added a link to the new tools in the [Molodist Subtitlers project](https://olhan
 **Thoughts:** Maybe it's time to implements some of the concepts from OOP and FP that I've been learning?
 
 **Link to work:** [Subtitlers' Tools — repo](https://github.com/olhanotolga/subtitle-tools)
+
+## Day 45: July 15, 2020
+
+**Today's Progress:** Tidied up my repo with subtitle checking tools: fixed some styling, structured separate tools into separate folders, updated a README with screenshots. They are now linked to in my Molodist Subtitlers project.
+
+Did more Functional Programming challenges on freeCodeCamp (written my versions of map() and filter() array prototype methods using a for loop).
+
+**Thoughts:** I have this urge again, to manage to do everything over a very limited time...
+
+**Link to work:** [Subtitlers' Tools](https://olhanotolga.github.io/subtitle-tools/)
