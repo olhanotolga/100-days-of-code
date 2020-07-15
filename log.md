@@ -455,7 +455,7 @@ Added a link to the new tools in the [Molodist Subtitlers project](https://olhan
 
 **Today's Progress:** Tidied up my repo with subtitle checking tools: fixed some styling, structured separate tools into separate folders, updated a README with screenshots. They are now linked to in my Molodist Subtitlers project.
 
-Did more Functional Programming challenges on freeCodeCamp (written my versions of map() and filter() array prototype methods using a for loop).
+Did more Functional Programming challenges on freeCodeCamp (written my versions of ```map()``` and ```filter()``` array prototype methods using a for loop).
 
 **Thoughts:** I have this urge again, to manage to do everything over a very limited time...
 
