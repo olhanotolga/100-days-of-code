@@ -460,3 +460,15 @@ Did more Functional Programming challenges on freeCodeCamp (written my versions 
 **Thoughts:** I have this urge again, to manage to do everything over a very limited time...
 
 **Link to work:** [Subtitlers' Tools](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 46: July 16, 2020
+
+**Today's Progress:** Some more Functional Programming challenges on freeCodeCamp (dealing with ```concat()```, ```reduce()``` and ```sort()``` array prototype methods).
+
+Also watched [10 layouts in 1 line of CSS](https://youtu.be/qm0IfG1GyZU) and realized how I missed coding layouts and how I maybe should get back to them some time.
+
+Tried to solve the mystery with my React calculator, why it's not working (why the result won't get assigned and stays at ```null```), got frustrated with tutorials. Documentation made it all clear.
+
+**Thoughts:** I seem to be on schedule with freeCodeCamp. Don't know if I should start any extra React tutorials at the moment.
+
+**Link to work:** No tangible work today.
