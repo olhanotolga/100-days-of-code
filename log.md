@@ -472,3 +472,17 @@ Tried to solve the mystery with my React calculator, why it's not working (why t
 **Thoughts:** I seem to be on schedule with freeCodeCamp. Don't know if I should start any extra React tutorials at the moment.
 
 **Link to work:** No tangible work today.
+
+## Day 47: July 17, 2020
+
+**Today's Progress:** Finished the Functional Programming chapter of the freeCodeCamp JS Certification. Two more chapters to go.
+
+Also tried to see what can be done to the React calculator to make it work. Found info on the setState() method:
+
+_"For better perceived performance, React may delay it, and then update several components in a single pass. React does not guarantee that the state changes are applied immediately."_ ([Source](https://reactjs.org/docs/react-component.html#setstate))
+
+I guess I'll have to figure out how to properly call the setState() method with a callback.
+
+**Thoughts:** I think my brain had a stack overflow today.
+
+**Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
