@@ -486,3 +486,15 @@ I guess I'll have to figure out how to properly call the setState() method with 
 **Thoughts:** I think my brain had a stack overflow today.
 
 **Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
+
+## Day 48: July 18, 2020
+
+**Today's Progress:** Implemented the componentDidUpdate() method and changed setState() so that it accepts a callback in some cases. The calculator more or less works.
+
+To-do for tomorrow:
+
+* [ ] fix the setOperator method/function: should be able to display interim results (when calculation is done without hitting the "=" button)
+
+**Thoughts:** My goodness! This this requires another way of thinking! Also, I guess dividing the calculator into smaller components might make it easier...
+
+**Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
