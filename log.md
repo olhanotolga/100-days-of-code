@@ -495,6 +495,6 @@ To-do for tomorrow:
 
 * [ ] fix the setOperator method/function: should be able to display interim results (when calculation is done without hitting the "=" button)
 
-**Thoughts:** My goodness! This this requires another way of thinking! Also, I guess dividing the calculator into smaller components might make it easier...
+**Thoughts:** My goodness! This thing requires a totally different way of thinking! Also, I guess breaking the calculator into smaller components might make it easier...
 
 **Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
