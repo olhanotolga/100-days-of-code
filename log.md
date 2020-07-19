@@ -498,3 +498,11 @@ To-do for tomorrow:
 **Thoughts:** My goodness! This thing requires a totally different way of thinking! Also, I guess breaking the calculator into smaller components might make it easier...
 
 **Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
+
+## Day 49: July 19, 2020
+
+**Today's Progress:** Still could not refactor the methods on components so that interim results (those obtained without clicking the '=' button) can be displayed on the app's screen.
+
+**Thoughts:** I got lost...
+
+**Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
