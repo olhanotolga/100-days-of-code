@@ -506,3 +506,13 @@ To-do for tomorrow:
 **Thoughts:** I got lost...
 
 **Link to work:** [React calc repo](https://github.com/olhanotolga/react-calc)
+
+## Day 50: July 20, 2020
+
+**Today's Progress:** Been solving challenges from the Intermediate Algorithm Scripting chapter on freeCodeCamp, got stuck for a long while with "Wherefore art thou" (comparing key-value pairs across objects).
+
+Also building simple React components as part of the FrauenLoop class.
+
+**Thoughts:** A lot of frustration and brain strain.
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
