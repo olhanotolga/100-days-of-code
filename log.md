@@ -525,6 +525,6 @@ Helped my husband with some regex (he needed to remove particular strings from a
 
 Also used regex to convert subtitles in a custom format into an ordinary .srt.
 
-**Thoughts:** I've been touch on myself today but kind of proud as well.
+**Thoughts:** I've been tough on myself today but kind of proud as well.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
