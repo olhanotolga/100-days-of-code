@@ -516,3 +516,15 @@ Also building simple React components as part of the FrauenLoop class.
 **Thoughts:** A lot of frustration and brain strain.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 51: July 21, 2020
+
+**Today's Progress:** 7 more intermediate algorithm scripting challenges on freeCodeCamp. Worked with arrays, strings, and regular expressions.
+
+Helped my husband with some regex (he needed to remove particular strings from a text file).
+
+Also used regex to convert subtitles in a custom format into an ordinary .srt.
+
+**Thoughts:** I've been touch on myself today but kind of proud as well.
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
