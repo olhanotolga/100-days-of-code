@@ -528,3 +528,11 @@ Also used regex to convert subtitles in a custom format into an ordinary .srt.
 **Thoughts:** I've been tough on myself today but kind of proud as well.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 52: July 22, 2020
+
+**Today's Progress:** 3 more intermediate algorithm scripting challenges on freeCodeCamp. This time, it was arrays, numbers, and iteration that I worked with. Oh, and math algorithms. Still have problems with the use of the ```return``` keyword.
+
+**Thoughts:** I feel miserable when it comes to: 1) math, 2) seeing too much work being done by my script (like, when I had to find the smallest common multiple for a series of numbers).
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
