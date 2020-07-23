@@ -536,3 +536,14 @@ Also used regex to convert subtitles in a custom format into an ordinary .srt.
 **Thoughts:** I feel miserable when it comes to: 1) math, 2) seeing too much work being done by my script (like, when I had to find the smallest common multiple for a series of numbers).
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 53: July 23, 2020
+
+**Today's Progress:** Another day of Intermediate Algorithm Scripting challenges. 4 more done. I especially loved the Steamroller puzzle where I had to flatten a multiple-level array.
+
+It was also the first time when I wrote an iterator hard-code way before transforming it into a recursion. I only needed some time to detach myself from the code between the two stages :)
+
+**Thoughts:** I nailed recursion, yay!
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
