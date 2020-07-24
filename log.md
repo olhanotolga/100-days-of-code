@@ -547,3 +547,10 @@ It was also the first time when I wrote an iterator hard-code way before transfo
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
 
+## Day 54: July 24, 2020
+
+**Today's Progress:** And 2 more challenges from the Intermediate Algorithm Scripting chapter. I spent between 1.5 and 2.5 hours on solving each.
+
+**Thoughts:** Not much but it was really enough for today. Had to ask my husband to look at my non-working solutions to tell me that I haven't saved the value anywhere...
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
