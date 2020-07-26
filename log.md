@@ -562,3 +562,11 @@ It was also the first time when I wrote an iterator hard-code way before transfo
 **Thoughts:** Now I can exhale... Till the next chapter.
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 56: July 26, 2020
+
+**Today's Progress:** Nothing special, played around with React a bit: created a function component^ broke it down into smaller ones, and rendered it three times with different props.
+
+**Thoughts:** Looking forward to tomorrow's FrauenLoop React class.
+
+**Link to work:** no link today.
