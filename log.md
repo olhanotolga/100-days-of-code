@@ -554,3 +554,11 @@ It was also the first time when I wrote an iterator hard-code way before transfo
 **Thoughts:** Not much but it was really enough for today. Had to ask my husband to look at my non-working solutions to tell me that I haven't saved the value anywhere...
 
 **Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
+
+## Day 55: July 25, 2020
+
+**Today's Progress:** Solved the last challenge of feeCodeCamp's Intermediate Algorithm Scripting chapter. I had to simply modify all objects in an array and return a new array. The new propperty I had to add was Earth's satellite object's orbital period, which I calculated based on its average altitude and a few given values. Some real math + .map() method.
+
+**Thoughts:** Now I can exhale... Till the next chapter.
+
+**Link to work:** [My freeCodeCamp profile](https://www.freecodecamp.org/olhanotolga)
