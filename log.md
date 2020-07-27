@@ -565,8 +565,18 @@ It was also the first time when I wrote an iterator hard-code way before transfo
 
 ## Day 56: July 26, 2020
 
-**Today's Progress:** Nothing special, played around with React a bit: created a function component^ broke it down into smaller ones, and rendered it three times with different props.
+**Today's Progress:** Nothing special, played around with React a bit: created a function component, broke it down into smaller ones, and rendered it three times with different props.
 
 **Thoughts:** Looking forward to tomorrow's FrauenLoop React class.
 
 **Link to work:** no link today.
+
+## Day 57: July 27, 2020
+
+**Today's Progress:** Completed the first of the final 5 projects of freeCodeCamp's JS Algorithms certification. It was an easy one — Palindrome Checker — as it involved my favorite strings. Started turning it into a web page.
+
+Was quite a bit of cool theory at FrauenLoop: JS data types, coersion, scopes, and closures. Then did some React practice and pair programming with VSC's Live Share plugin.
+
+**Thoughts:** During the React exercises, I set the new state with the increment postfix. What's even worse, I didn't immediately realize it's not working because of the type of the increment, and not because React has something against direct manipulation of component states. Facepalm.
+
+**Link to work:** [Palindrome Checker (GitHub repo)](https://github.com/olhanotolga/palindrome-checker).
