@@ -580,3 +580,13 @@ Was quite a bit of cool theory at FrauenLoop: JS data types, coersion, scopes, a
 **Thoughts:** During the React exercises, I set the new state with the increment postfix. What's even worse, I didn't immediately realize it's not working because of the type of the increment, and not because React has something against direct manipulation of component states. Facepalm.
 
 **Link to work:** [Palindrome Checker (GitHub repo)](https://github.com/olhanotolga/palindrome-checker).
+
+## Day 58: July 28, 2020
+
+**Today's Progress:** Completed another JS project on freeCodeCamp — Roman Numeral Converter. Husband helped make the code DRY, and the solution turned out really concise. Still, it's a bit confusing when more or less complex data structures come into play.
+
+What's more, I tried laying out the projects with CSS grid and played around with colors and typography. As usual, I went with web fonts and ColorSafe suggests.
+
+**Thoughts:** I wonder if it's "allowed", to introduce empty divs or other elements that do not contain anything byt help somehow style or lay things out.
+
+**Link to work:** [freeCodeCamp projects (repo)](https://github.com/olhanotolga/freeCodeCamp-projects).
