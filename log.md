@@ -589,4 +589,16 @@ What's more, I tried laying out the projects with CSS grid and played around wit
 
 **Thoughts:** I wonder if it's "allowed", to introduce empty divs or other elements that do not contain anything byt help somehow style or lay things out.
 
-**Link to work:** [freeCodeCamp projects (repo)](https://github.com/olhanotolga/freeCodeCamp-projects).
+**Link to work:** [freeCodeCamp projects (repo)](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 59: July 29, 2020
+
+**Today's Progress:** Today, I did 2 things:
+
+1. Used Regex to transform a file with timed subtitles into a valid .srt file. Had to fix my frames to milliseconds conversion function (I concatenated zeroes from the wrong side in cases when milliseconds were represented with a one- or two-digit number).
+
+2. Set up an entire project folder for the FrauenLoop presentation on Monday. Will be working on it during the upcoming days.
+
+**Thoughts:** I feel overwhelmed.
+
+**Link to work:** [React playground (my newly set repo)](https://github.com/olhanotolga/react-playground)
