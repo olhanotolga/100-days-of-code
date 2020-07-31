@@ -602,3 +602,11 @@ What's more, I tried laying out the projects with CSS grid and played around wit
 **Thoughts:** I feel overwhelmed.
 
 **Link to work:** [React playground (my newly set repo)](https://github.com/olhanotolga/react-playground)
+
+## Day 60-61: July 30-31, 2020
+
+**Today's Progress:** Trying to code from a resort town before going on a hike using an iPad. Tried fixing my space remover tool (to add an "all good" message but I'm struggling without a console!) Managed to fix some styling though.
+
+**Thoughts:** I should face it: no work on holidays (unless I take my laptop with me).
+
+**Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
