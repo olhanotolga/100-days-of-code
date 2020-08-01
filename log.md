@@ -610,3 +610,17 @@ What's more, I tried laying out the projects with CSS grid and played around wit
 **Thoughts:** I should face it: no work on holidays (unless I take my laptop with me).
 
 **Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 62: August 1, 2020
+
+**Today's Progress:** Fixed my subtitling helper tools:
+
+- added the 'all good' message to Space Remover;
+- hid the comment message initially;
+- added trailing spaces removal;
+- enabled fixed errors count in cases where not all categories of errors were present (i.e. when matches for unnecessary/redundant spaces returned 'null');
+- added subtitles count in Timecode Checker
+
+**Thoughts:** Some proper fixes done relatively quick with dev tools and proper laptop.
+
+**Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
