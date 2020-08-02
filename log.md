@@ -624,3 +624,11 @@ What's more, I tried laying out the projects with CSS grid and played around wit
 **Thoughts:** Some proper fixes done relatively quick with dev tools and proper laptop.
 
 **Link to work:** [Subtitle tools](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 63: August 2, 2020
+
+**Today's Progress:** Worked on styling and content of my React playground which I might or might not present tomorrow at FrauenLoop final session.
+
+**Thoughts:** Pretty exhausted and feel like I'm missing lots of stuff in React.
+
+**Link to work:** [React playground (my newly set repo)](https://github.com/olhanotolga/react-playground)
