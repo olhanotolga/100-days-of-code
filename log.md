@@ -632,3 +632,13 @@ What's more, I tried laying out the projects with CSS grid and played around wit
 **Thoughts:** Pretty exhausted and feel like I'm missing lots of stuff in React.
 
 **Link to work:** [React playground (my newly set repo)](https://github.com/olhanotolga/react-playground)
+
+## Day 64: August 3, 2020
+
+**Today's Progress:** Started the 2nd module of the DCI course, UI Basics. Learning HTML and CSS from scratch (kind of) again. Tried out a gradient border for the first time. Need to understand what ```border-image-slice``` means and why it should be set to 30%.
+
+At FrauenLoop, presented my React playground first in the small group and then in the big one. Couldn't explain some of my code I've been struggling with. Need to tidy up my repos.
+
+**Thoughts:** I'll need to go through my to-do list and refactor lots of stuff and rethink my calculator's logic (so that I maybe don't have so much stuff that relies on other stuff in the code in a recursive manner).
+
+**Link to work:** [Colors Website repo](https://github.com/FbW36/articles-markup-olhanotolga)
