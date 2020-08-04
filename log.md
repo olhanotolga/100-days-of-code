@@ -642,3 +642,39 @@ At FrauenLoop, presented my React playground first in the small group and then i
 **Thoughts:** I'll need to go through my to-do list and refactor lots of stuff and rethink my calculator's logic (so that I maybe don't have so much stuff that relies on other stuff in the code in a recursive manner).
 
 **Link to work:** [Colors Website repo](https://github.com/FbW36/articles-markup-olhanotolga)
+
+## Day 65: August 4, 2020
+
+**Today's Progress:** Spent several hours styling a page to look like a Wikipedia one. Had the luxury of using the plain old HTML and CSS. Remembered how to use floats and played around with lists' styling.
+
+For example,
+
+```CSS
+ol {
+    counter-reset: item;
+}
+ol li {
+    display: block;
+}
+ol>li:before {
+    content: counters(item, ".");
+    counter-increment: item;
+    margin-right: 0.5em;
+}
+```
+
+allows creating a nested ordered list that looks like this:
+
+```
+1 one
+2 two
+3 three
+4 four
+   4.1 four-one
+   4.2 four-two
+5 five
+```
+
+**Thoughts:** I don't know so much about CSS...
+
+**Link to work:** [Wiki page repo](https://github.com/FbW36/uib-content-wiki-olhanotolga)
