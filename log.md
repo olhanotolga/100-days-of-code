@@ -678,3 +678,13 @@ allows creating a nested ordered list that looks like this:
 **Thoughts:** I don't know so much about CSS...
 
 **Link to work:** [Wiki page repo](https://github.com/FbW36/uib-content-wiki-olhanotolga)
+
+## Day 66: August 5, 2020
+
+**Today's Progress:** Played around with some basic CSS. Read documentation about cascades, specificity, inheritance, and various selectors. Did a few exercises on selectors, borders, and fonts. Learned about importing fonts into the stylesheet vs. linking in the HTML document.
+
+Tried to work on a new freeCodeCamp project (Caesar's cipher) but didn't have much time.
+
+**Thoughts:** It's really good to be able to take some and read HTML & CSS documentation properly and sort out the basic concepts.
+
+**Link to work:** [For example, this repo](https://github.com/FbW36/uib-typography-font-family-olhanotolga)
