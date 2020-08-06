@@ -688,3 +688,13 @@ Tried to work on a new freeCodeCamp project (Caesar's cipher) but didn't have mu
 **Thoughts:** It's really good to be able to take some and read HTML & CSS documentation properly and sort out the basic concepts.
 
 **Link to work:** [For example, this repo](https://github.com/FbW36/uib-typography-font-family-olhanotolga)
+
+## Day 67: August 6, 2020
+
+**Today's Progress:** Today was centered around more typography and text styling. I played around with resetting font size throughout the document, with sizes, styles, and shapes of fonts, including FA icons, also text shadow.
+
+I've started to add whitespace and increase font sizes.
+
+**Thoughts:** So far so good.
+
+**Link to work:** [One of the repos where text shadow is used](https://github.com/FbW36/uib-text-effect-olhanotolga)
