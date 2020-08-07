@@ -698,3 +698,13 @@ I've started to add whitespace and increase font sizes.
 **Thoughts:** So far so good.
 
 **Link to work:** [One of the repos where text shadow is used](https://github.com/FbW36/uib-text-effect-olhanotolga)
+
+## Day 68: August 7, 2020
+
+**Today's Progress:** Did a brief styling exercise and styled a neon text poster. I used the background-blend-mode property for mixing the image background and background color and put together 6 text shadows to achieve the neon effect as well as depth.
+
+![screenshot of neon text making](screenshots/neon-text.png)
+
+**Thoughts:** Liked it.
+
+**Link to work:** [The repo](https://github.com/FbW36/uib-neon-text-effect-olhanotolga)
