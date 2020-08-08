@@ -708,3 +708,11 @@ I've started to add whitespace and increase font sizes.
 **Thoughts:** Liked it.
 
 **Link to work:** [The repo](https://github.com/FbW36/uib-neon-text-effect-olhanotolga)
+
+## Day 69: August 8, 2020
+
+**Today's Progress:** Completed the 3rd freeCodeCamp JS poroject, Caesar's Cipher. Tried to do it with the string replace() method and two half-alphabet arrays but it didn't work for some reason. Then I created an object (map) with letters as keys and corresponding ROT13 letters as values. Succeeded by using the .hasOwnProperty() method on the object and .concat() method on the new (decoded) string.
+
+**Thoughts:** Pretty easy yet a bit confusing.
+
+**Link to work:** [Caesar's Cipher page](https://olhanotolga.github.io/freeCodeCamp-projects/caesars-cipher/index.html)
