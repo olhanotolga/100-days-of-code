@@ -716,3 +716,14 @@ I've started to add whitespace and increase font sizes.
 **Thoughts:** Pretty easy yet a bit confusing.
 
 **Link to work:** [Caesar's Cipher page](https://olhanotolga.github.io/freeCodeCamp-projects/caesars-cipher/index.html)
+
+## Day 70: August 9, 2020
+
+**Today's Progress:** Spent some time adding a chapter on subtitle formatting to the Molodist Subtitlers knowledge base (my Flask project).
+
+Did some tricky manipulations on a subtitle file using RegEx and JavaScript to add subtitle numbers, formatting, line dividers, etc.
+
+**Thoughts:** I now think it's funny that I chose to do a simple knowldege base with Flask so that I don't repeat myself and my code, while using Bootstrap functionality at the same time — where I, for example, added a margin class to every single text paragraph.
+¯\\\_(ツ)\_/¯
+
+**Link to work:** [Molodist Subtitlers KB](http://olhanotolga.pythonanywhere.com/)
