@@ -727,3 +727,17 @@ Did some tricky manipulations on a subtitle file using RegEx and JavaScript to a
 ¯\\\_(ツ)\_/¯
 
 **Link to work:** [Molodist Subtitlers KB](http://olhanotolga.pythonanywhere.com/)
+
+## Day 71: August 10, 2020
+
+**Today's Progress:** A rather eventful day.
+
+First, I had classes at DCI where we did exercises on media queries.
+
+Then, I helped out to turn dialog lists into SubRip subtitles using Regex and some basic JavaScript.
+
+At last, I completed the 4th freeCodeCamp JS poroject, Telephone Number Validator. Used my favorite Regex here too.
+
+**Thoughts:** A bit tired, looking forward to finishing the projects.
+
+**Link to work:** [Phone Number Validator page](https://olhanotolga.github.io/freeCodeCamp-projects/phone-number-validator/index.html)
