@@ -741,3 +741,11 @@ At last, I completed the 4th freeCodeCamp JS poroject, Telephone Number Validato
 **Thoughts:** A bit tired, looking forward to finishing the projects.
 
 **Link to work:** [Phone Number Validator page](https://olhanotolga.github.io/freeCodeCamp-projects/phone-number-validator/index.html)
+
+## Day 72: August 11, 2020
+
+**Today's Progress:** (1) Spent the day practicing CSS basic layout, width, margins, and padding, display property, media queries etc. (2) Did so me subtitle files conversion using Regex. (3) Started the last freeCodeCamp challenge — Cash Register.
+
+**Thoughts:** The Cash Register challenge appears to be harder than it seemed to me before... :)
+
+**Link to work:** [Semantics & Layout exercise repo](https://github.com/FbW36/uib-boxmodel-semantics-olhanotolga)
