@@ -749,3 +749,13 @@ At last, I completed the 4th freeCodeCamp JS poroject, Telephone Number Validato
 **Thoughts:** The Cash Register challenge appears to be harder than it seemed to me before... :)
 
 **Link to work:** [Semantics & Layout exercise repo](https://github.com/FbW36/uib-boxmodel-semantics-olhanotolga)
+
+## Day 73: August 12, 2020
+
+**Today's Progress:** Mostly did CSS exercises: the last one was to create a tribute page like I did for the freeCodeCamp Responsive Design certification. Picked Jean Cocteau this time.
+
+Learned that the `img` element is a replaced element. Although its default `display` property value is `inline`, it can have width and height. It acts like a container with image as content (seems like width and height refer to the image itself). To position and adjust the image within its box (img), `object-position` and `object-fit` properties are used.
+
+**Thoughts:** I found the thing with the `img` element super cool.
+
+**Link to work:** [Tribute page repo](https://github.com/FbW36/uib-tribute-page-olhanotolga)
