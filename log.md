@@ -759,3 +759,11 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** I found the thing with the `img` element super cool.
 
 **Link to work:** [Tribute page repo](https://github.com/FbW36/uib-tribute-page-olhanotolga)
+
+## Day 74: August 13, 2020
+
+**Today's Progress:** Learned about pseudo-elements ::before and ::after, did a bunch of exercises. Played around with box-shadow.
+
+**Thoughts:** Now I know that I shouldn't create any additional divs for the layout purposes but add ::before and ::after instead.
+
+**Link to work:** [An example repo](https://github.com/FbW36/uib-boxmodel-stylishboxes-olhanotolga)
