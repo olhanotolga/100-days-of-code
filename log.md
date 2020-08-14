@@ -767,3 +767,11 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** Now I know that I shouldn't create any additional divs for the layout purposes but add ::before and ::after instead.
 
 **Link to work:** [An example repo](https://github.com/FbW36/uib-boxmodel-stylishboxes-olhanotolga)
+
+## Day 75: August 14, 2020
+
+**Today's Progress:** Spent some time trying to work on the Cash Register problem but somehow got more confused.
+
+**Thoughts:** I'll need to sit and think about the challenge again properly.
+
+**Link to work:** No links today.
