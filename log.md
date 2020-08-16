@@ -783,3 +783,11 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** It kinda fascinates me and doesn't scare me so much anymore.
 
 **Link to work:** No links today too.
+
+## Day 77: August 16, 2020
+
+**Today's Progress:** Didn't have much time to code, so I had one more look into my cash register challenge. I don't think I got further than yesterday — it actually took me a lot of time to just recall what's what.
+
+**Thoughts:** I think I need to do longer runs with this one. Otherwise, it doesn't count :)
+
+**Link to work:** No links today too.
