@@ -775,3 +775,11 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** I'll need to sit and think about the challenge again properly.
 
 **Link to work:** No links today.
+
+## Day 76: August 15, 2020
+
+**Today's Progress:** Spent one and a half more hours on the cash register challenge. The more I think on it, the more I learn to think in general. I might be close to the solution :)
+
+**Thoughts:** It kinda fascinates me and doesn't scare me so much anymore.
+
+**Link to work:** No links today too.
