@@ -796,6 +796,8 @@ Learned that the `img` element is a replaced element. Although its default `disp
 
 **Today's Progress:** Finished the Cash Register challenge on freeCodeCamp (I wrote the function from scratch again), completed the JavaScript Algorithms and Data Structures certification.
 
+![JS Algorithms certificate](screenshots/js-algorithms-certificate.png)
+
 **Thoughts:** It feels like it was such a long way... I'm really really happy.
 
 **Link to work:** [fCC certificate](https://www.freecodecamp.org/certification/olhanotolga/javascript-algorithms-and-data-structures)
