@@ -791,3 +791,11 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** I think I need to do longer runs with this one. Otherwise, it doesn't count :)
 
 **Link to work:** No links today too.
+
+## Day 78: August 17, 2020
+
+**Today's Progress:** Finished the Cash Register challenge on freeCodeCamp (I wrote the function from scratch again), completed the JavaScript Algorithms and Data Structures certification.
+
+**Thoughts:** It feels like it was such a long way... I'm really really happy.
+
+**Link to work:** [fCC certificate](https://www.freecodecamp.org/certification/olhanotolga/javascript-algorithms-and-data-structures)
