@@ -813,3 +813,15 @@ Then I did the basic setup for the cash register page and was thinking how I sho
 **Thoughts:** I'm thinking about the way to make the cash register page interesting to play around with...
 
 **Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 80: August 19, 2020
+
+**Today's Progress:** Did more Flexbox-related stuff during the classes. Got a bit more understnding of `flex-grow`, `flex-shrink`, and `flex-basis`. At least, I believe so :)
+
+After classes, I replaced the two additional divs in my freeCodeCamp projects (I created them to maintain a desired layout) with the `::after` and `::before` pseudo-elements, and it worked!
+
+The `::before` and `::after` pseudo-elements can be grid items when they refer to the grid container (parent) element. For example, if `.main` is a grid container, then `.main > *` as well as `.main::before` and `.main::after` are all grid items.
+
+**Thoughts:** Having a good time for now.
+
+**Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
