@@ -801,3 +801,15 @@ Learned that the `img` element is a replaced element. Although its default `disp
 **Thoughts:** It feels like it was such a long way... I'm really really happy.
 
 **Link to work:** [fCC certificate](https://www.freecodecamp.org/certification/olhanotolga/javascript-algorithms-and-data-structures)
+
+## Day 79: August 18, 2020
+
+**Today's Progress:** For the first time, I forgot to log the day.
+
+We are currently learning Flexbox at my web dev school, so I was doing some exercises. I even managed to troubleshoot someone else's issues. The problem was about specificity.
+
+Then I did the basic setup for the cash register page and was thinking how I should style it (made a drawing).
+
+**Thoughts:** I'm thinking about the way to make the cash register page interesting to play around with...
+
+**Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
