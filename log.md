@@ -835,3 +835,11 @@ The `::before` and `::after` pseudo-elements can be grid items when they refer t
 **Thoughts:** I was very flattered that my teacher asked me if I might be interested in a tutoring position. Unfortunately, I have a mini-job and am not allowed to take more hours.
 
 **Link to work:** [flexbox project repo – private](https://github.com/FbW36/uib-flexbox-kpi-list-olhanotolga)
+
+## Day 82: August 21, 2020
+
+**Today's Progress:** Did the initial flex layout for my Cahs Register project page. I dedided to go with flex because now I know how to do it :)
+
+**Thoughts:** I feel that I really like doing layouts.
+
+**Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
