@@ -843,3 +843,11 @@ The `::before` and `::after` pseudo-elements can be grid items when they refer t
 **Thoughts:** I feel that I really like doing layouts.
 
 **Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 83: August 22, 2020
+
+**Today's Progress:** Tried adding DOM variables to the script.js file in the Cash Register project. I can't believe that but I forgot how to pass arguments into a function that I'm calling in the onclick attribute on the (button) element. I'll look into more carefully tomorrow.
+
+**Thoughts:** Oh well, I wrote some JS :)
+
+**Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
