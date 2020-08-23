@@ -851,3 +851,19 @@ The `::before` and `::after` pseudo-elements can be grid items when they refer t
 **Thoughts:** Oh well, I wrote some JS :)
 
 **Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 84: August 23, 2020
+
+**Today's Progress:** Fixed the event handler in the Cash Register project. Played with the styling and adjusted the display so that it is aligned with the units input and makes sence visually.
+
+Needs to be done:
+
+* [ ] Add a description
+* [ ] Make the page / cash register part responsive
+* [ ] Change colors
+* [ ] Adjust padding and margin on all elements
+* [ ] Convert everything to EURO
+
+**Thoughts:** Now it's starting to look like something :)
+
+**Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
