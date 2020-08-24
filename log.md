@@ -867,3 +867,11 @@ Needs to be done:
 **Thoughts:** Now it's starting to look like something :)
 
 **Link to work:** [freeCodeCamp projects repo](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 85: August 24, 2020
+
+**Today's Progress:** Did exercises on CSS Grid. Finally completed the Grid Garden game <3
+
+**Thoughts:** Now I see how Grid is more complex than Flexbox, although I clearly underestimated Flexbox in the first place.
+
+**Link to work:** [CSS Grid Letters exercise repo (private)](https://github.com/FbW36/uib-css-grid-letters-olhanotolga)
