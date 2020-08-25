@@ -875,3 +875,25 @@ Needs to be done:
 **Thoughts:** Now I see how Grid is more complex than Flexbox, although I clearly underestimated Flexbox in the first place.
 
 **Link to work:** [CSS Grid Letters exercise repo (private)](https://github.com/FbW36/uib-css-grid-letters-olhanotolga)
+
+## Day 86: August 25, 2020
+
+**Today's Progress:** More exercises on CSS grid. In the class, I had the fun to clone the 2001 Google version (accessed through the Wayback Machine): [repo](https://github.com/FbW36/uib-cloning-google-olhanotolga)
+
+Did this:
+
+```CSS
+.footer-links li:not(:last-child)::after {
+    content: "-";
+    display: inline-block;
+    margin: 0 0.5rem 0 1rem;
+}
+```
+
+to have achieved this look ![footer links with dashes between them](screenshots/footer-links.png)
+
+All in all, I used grid on the index page of my freeCodeCamp projects repo. Just because there is an auto-fit value which can be used for the number of grid template columns. Looks OK.
+
+**Thoughts:** The more I work on the freeCodeCamp projects website, the more work there is...
+
+**Link to work:** [freeCodeCamp projects website](https://olhanotolga.github.io/freeCodeCamp-projects/)
