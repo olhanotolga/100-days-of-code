@@ -897,3 +897,13 @@ All in all, I used grid on the index page of my freeCodeCamp projects repo. Just
 **Thoughts:** The more I work on the freeCodeCamp projects website, the more work there is...
 
 **Link to work:** [freeCodeCamp projects website](https://olhanotolga.github.io/freeCodeCamp-projects/)
+
+## Day 87: August 26, 2020
+
+**Today's Progress:** Did some Grid exercises, also managed to get back to my subtitling assistance tools and updated them on GitHub. Added the fps to ms converter, changed some styling, and refreshed the README.
+
+Oh, also I learned that removing outlines from buttons, links, and inputs makes the website not accessible and [why we must keep outlines](http://outlinenone.com/).
+
+**Thoughts:** I feel that all the infos on layouts in CSS are mixed in my head.
+
+**Link to work:** [Subtitle tools live](https://olhanotolga.github.io/subtitle-tools/)
