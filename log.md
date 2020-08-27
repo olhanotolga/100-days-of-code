@@ -907,3 +907,11 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** I feel that all the infos on layouts in CSS are mixed in my head.
 
 **Link to work:** [Subtitle tools live](https://olhanotolga.github.io/subtitle-tools/)
+
+## Day 88: August 27, 2020
+
+**Today's Progress:** More CSS Grid exercises, including the one where we created our own utility classed (for items spanning across different number or columns) and reused them in the next exercise.
+
+**Thoughts:** I thought about Bootstrap and responsiveness and realized it's pretty hard to work with universal utility classes and have responsiveness in mind.
+
+**Link to work:** [CSS Grid Grid (private repo)](https://github.com/FbW36/uib-css-grid-grid-olhanotolga)
