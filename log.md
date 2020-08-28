@@ -915,3 +915,11 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** I thought about Bootstrap and responsiveness and realized it's pretty hard to work with universal utility classes and have responsiveness in mind.
 
 **Link to work:** [CSS Grid Grid (private repo)](https://github.com/FbW36/uib-css-grid-grid-olhanotolga)
+
+## Day 89: August 28, 2020
+
+**Today's Progress:** Working on the hardest part — styling the pages of the freeCodeCamp projects... Trying to apply colors at the moment.
+
+**Thoughts:** I think it will last for a while...
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
