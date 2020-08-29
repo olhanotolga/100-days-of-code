@@ -923,3 +923,11 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** I think it will last for a while...
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 90: August 29, 2020
+
+**Today's Progress:** Oh my, have been styling my freeCodeCamp projects... Changed colors in 4 out of 5 projects. Left a lot of CSS mess in each of them. Wow, I'll need to restructure my stylesheets sometime soon.
+
+**Thoughts:** I think I'm getting somewhere, at least with the colors.
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
