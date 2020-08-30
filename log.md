@@ -931,3 +931,11 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** I think I'm getting somewhere, at least with the colors.
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 91: August 30, 2020
+
+**Today's Progress:** Tried changing colors in the cash register project. I will probably change them again tomorrow.
+
+**Thoughts:** Still lots of work to do...
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
