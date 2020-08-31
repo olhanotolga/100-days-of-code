@@ -939,3 +939,11 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** Still lots of work to do...
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 92: August 31, 2020
+
+**Today's Progress:** Learned CSS positioning, did exercises. Then tried to use positioning when making a sticky Home button on my freeCodeCamp project pages. In the end, I had to place the button as a grid item and then adjust it with `right` and `bottom` controls...
+
+**Thoughts:** Now I don't like the overall look because it's too childish. Don't know what's going to come out of it.
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
