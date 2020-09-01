@@ -947,3 +947,15 @@ Oh, also I learned that removing outlines from buttons, links, and inputs makes 
 **Thoughts:** Now I don't like the overall look because it's too childish. Don't know what's going to come out of it.
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 93: September 1, 2020
+
+**Today's Progress:** In the class, we learned all the fun CSS stuff today: started with pseudo-elements and pseudo-classes and ended with basic animations (no keyframes).
+
+I managed to make a custom CSS icon for the Home button for the freeCodeCamp projects page. Looks legit!
+
+![Home button on Cash Register](screenshots/home-button-on-cash-register.png)
+
+**Thoughts:** It may look childish but it's a process. What's more important is to make sure that my code is clean.
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
