@@ -959,3 +959,11 @@ I managed to make a custom CSS icon for the Home button for the freeCodeCamp pro
 **Thoughts:** It may look childish but it's a process. What's more important is to make sure that my code is clean.
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 94: September 2, 2020
+
+**Today's Progress:** Did exercises on animations in the class, uploaded the Home button from yesterday to CodePen, added instructions to the cash register project page using the `<details>` element.
+
+**Thoughts:** I was quite active in class but can't stop feeling inappropriate. Weird, if you think about it.
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
