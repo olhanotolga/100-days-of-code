@@ -967,3 +967,11 @@ I managed to make a custom CSS icon for the Home button for the freeCodeCamp pro
 **Thoughts:** I was quite active in class but can't stop feeling inappropriate. Weird, if you think about it.
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 95: September 3, 2020
+
+**Today's Progress:** Worked on animations (mostly transforms, transitions with the use of pseudo elements and positioning). Learned about [CSS triggers](https://csstriggers.com/) and how the browser re-renders everything when width or element's position are animated and how we should use translate instead.
+
+**Thoughts:** Challenging and beautiful exercises. Also, I love the theoretical part.
+
+**Link to work:** [CodePen: Slide-in animation / Matterhorn postcard](https://codepen.io/olhanotolga/full/ZEWaLxW)
