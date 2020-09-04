@@ -975,3 +975,11 @@ I managed to make a custom CSS icon for the Home button for the freeCodeCamp pro
 **Thoughts:** Challenging and beautiful exercises. Also, I love the theoretical part.
 
 **Link to work:** [CodePen: Slide-in animation / Matterhorn postcard](https://codepen.io/olhanotolga/full/ZEWaLxW)
+
+## Day 96: September 4, 2020
+
+**Today's Progress:** Added a basic regular expression to validate phone numbers against the German number format. I could change it at some point to check if it is actually a valid German landline/mobile number using [the map of Telefonvorwahlbereiche in Deutschland](https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png).
+
+**Thoughts:** Should I really be doing this? :)
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
