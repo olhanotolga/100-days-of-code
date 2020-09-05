@@ -983,3 +983,13 @@ I managed to make a custom CSS icon for the Home button for the freeCodeCamp pro
 **Thoughts:** Should I really be doing this? :)
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 97: September 5, 2020
+
+**Today's Progress:** Got a chance to have a look at someone else's code from my group (the exercises that we did in the class). Some things I would've done better but some things I haven't really thought about.
+
+Also, went through my phone checker/validator once again.
+
+**Thoughts:** Exchanging code — really cool!
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
