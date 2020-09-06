@@ -993,3 +993,15 @@ Also, went through my phone checker/validator once again.
 **Thoughts:** Exchanging code — really cool!
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 98: September 6, 2020
+
+**Today's Progress:** Edited the function in phone number validator — from now on, numbers with area code that starts with 00 are not valid.
+
+Edited the function in palindrome checker — from now on, empty strings are not recognized as palindromes.
+
+Tidied up general styles, will have to refactor all styles over the next few days. Trying to work with variables and back-up values.
+
+**Thoughts:** It's a pity there's so little time on weekends.
+
+**Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
