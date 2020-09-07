@@ -1005,3 +1005,15 @@ Tidied up general styles, will have to refactor all styles over the next few day
 **Thoughts:** It's a pity there's so little time on weekends.
 
 **Link to work:** [freeCodeCamp projects](https://github.com/olhanotolga/freeCodeCamp-projects)
+
+## Day 99: September 7, 2020
+
+**Today's Progress:** Did exercises on HTML tables, touched the accessibility aspect, will dive into `colgroups` etc. at some point later.
+
+Ran JS in the command line with node.
+
+Solved the challenge on finding multiples of certain numbers up to a given number and calculating their sum.
+
+**Thoughts:** My most hated algorithm problems are the ones that deal with prime numbers. Can't explain it.
+
+**Link to work:** No links, all on my laptop, scattered.
