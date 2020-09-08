@@ -1017,3 +1017,13 @@ Solved the challenge on finding multiples of certain numbers up to a given numbe
 **Thoughts:** My most hated algorithm problems are the ones that deal with prime numbers. Can't explain it.
 
 **Link to work:** No links, all on my laptop, scattered.
+
+## Day 100: September 8, 2020
+
+**Today's Progress:** Was learning HTML forms and how to style them. Didn't go for the complex stuff, mainly focused on using different CSS selectors (attribute selectors, chaining `:not()` etc.).
+
+Solved the problem on finding the sum of all even Fibonacci numbers up to [4,000,000].
+
+**Thoughts:** 1h:20m spent on the Fibonacci numbers challenge. Not bad :)
+
+**Link to work:** [one of the forms, private repo](https://github.com/FbW36/uib-data-contact-form-olhanotolga)
