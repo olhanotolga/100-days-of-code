@@ -1026,4 +1026,6 @@ Solved the problem on finding the sum of all even Fibonacci numbers up to [4,000
 
 **Thoughts:** 1h:20m spent on the Fibonacci numbers challenge. Not bad :)
 
+Also, I made it to the 100th day! I might do it again some time soon.
+
 **Link to work:** [one of the forms, private repo](https://github.com/FbW36/uib-data-contact-form-olhanotolga)
