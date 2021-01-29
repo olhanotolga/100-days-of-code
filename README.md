@@ -2,8 +2,17 @@
 
 **Check out** [**my #100DaysOfCode log**](log.md)
 
+## Rounds
+
+### Round 1
+
 * [x] Started: 1 June 2020
 * [x] Completed: 8 September 2020
+
+### Round 2
+
+* [x] Started: 29 January 2021
+* [ ] Completed: ...
 
 ## Contents
 

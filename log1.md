@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code: Round 1 - Log
 
 ## Day 1: June 1, 2020
 
