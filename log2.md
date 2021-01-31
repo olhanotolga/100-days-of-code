@@ -17,3 +17,13 @@ Set up a Flask project to train. For now I'm coding along with a tutorial but I 
 **Thoughts:** After React Flask looks like something from the last century. There's even a Bootstrap package which seems to provide some older version of the library!
 
 **Link to work:** [Flask Journal GitHub repo](https://github.com/olhanotolga/flask-journal), [Python challenges](https://github.com/olhanotolga/python-challenges)
+
+## Day 3: January 31, 2021
+
+**Today's Progress:** More Flask training, learned about forms and form validation.
+
+Reviewed user stories and made mockups for my full-stack project at FrauenLoop.
+
+**Thoughts:** Making mockups is excruciating!
+
+**Link to work:** [Flask Journal GitHub repo](https://github.com/olhanotolga/flask-journal)
