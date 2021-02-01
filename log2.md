@@ -27,3 +27,11 @@ Reviewed user stories and made mockups for my full-stack project at FrauenLoop.
 **Thoughts:** Making mockups is excruciating!
 
 **Link to work:** [Flask Journal GitHub repo](https://github.com/olhanotolga/flask-journal)
+
+## Day 4: February 1, 2021
+
+**Today's Progress:** Learning about React router, implementing it in the CountryByCountry project I've been working on. Wrapping my head around all the pushes and redirects.
+
+**Thoughts:** With React Router, I had to change quite a bit of logic to make it all work. Either I'm facing maintainability issues or I simply need to document the logic somewhere (or both).
+
+**Link to work:** [CountryByCountry GitHub repo](https://github.com/olhanotolga/countrybycountry)
