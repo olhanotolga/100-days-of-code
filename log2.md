@@ -35,3 +35,13 @@ Reviewed user stories and made mockups for my full-stack project at FrauenLoop.
 **Thoughts:** With React Router, I had to change quite a bit of logic to make it all work. Either I'm facing maintainability issues or I simply need to document the logic somewhere (or both).
 
 **Link to work:** [CountryByCountry GitHub repo](https://github.com/olhanotolga/countrybycountry)
+
+## Day 5: February 2, 2021
+
+**Today's Progress:** More React router training. Also started a new project, a small fake e-commerce website. Will be working on it for the rest of the week. Made mobile designs with Canva, implemented the basic React structure.
+
+Started playing around with the cat themes on Canva for the Rent a Cat project. I'm still missing mockups.
+
+**Thoughts:** Canva's applying styles (colors/fonts) to a design makes life much much easier and the projects prettier, although husband says all my creations look pretty much the same :)
+
+**Link to work:** Coming soon...
