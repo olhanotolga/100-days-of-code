@@ -45,3 +45,11 @@ Started playing around with the cat themes on Canva for the Rent a Cat project. 
 **Thoughts:** Canva's applying styles (colors/fonts) to a design makes life much much easier and the projects prettier, although husband says all my creations look pretty much the same :)
 
 **Link to work:** Coming soon...
+
+## Day 6: February 3, 2021
+
+**Today's Progress:** Transformed the base design of my current project into components (pages as I'm using the React router). The main routes are done, as well as the 404 page. Let's see if I manage to do the functionality in 1 day.
+
+**Thoughts:** Looks very good but obviously I want it to function as well. I think I took a bit too much time for the design.
+
+**Link to work:** Coming soon...
