@@ -53,3 +53,11 @@ Started playing around with the cat themes on Canva for the Rent a Cat project. 
 **Thoughts:** Looks very good but obviously I want it to function as well. I think I took a bit too much time for the design.
 
 **Link to work:** Coming soon...
+
+## Day 7: February 4, 2021
+
+**Today's Progress:** Created a spreadsheet with data and tried to figure out how to make API calls to a Google Sheet. In the end managed to only convert the spreadsheet to a JSON file and fetch data from it. TO didplay it, howeveer, I had to parse the hell out of my result (because I got the information either by cells or rows only without using the API properly). Displayed the data alright in the end. Also created a bunch of states for the app and enabled the shopping cart (adding and removing items to/from it). For now it all exists as a state, will work on displaying it over the coming days.
+
+**Thoughts:** A very exhausting experience with Google Spreadsheets. Now I'm interested in figuring out how this thing works even more.
+
+**Link to work:** Coming soon...
