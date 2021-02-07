@@ -61,3 +61,27 @@ Started playing around with the cat themes on Canva for the Rent a Cat project. 
 **Thoughts:** A very exhausting experience with Google Spreadsheets. Now I'm interested in figuring out how this thing works even more.
 
 **Link to work:** Coming soon...
+
+## Day 8: February 5, 2021
+
+**Today's Progress:** Not much done today:
+
+— Fixed a few styling flaws in the current app.
+
+— Did a challenge-solving session with Jill and Frannie. Jill made an introduction to Leetcode. Very interesting!
+
+**Thoughts:** I'm not very good at low-level algorith problems.
+
+**Link to work:** Coming soon...
+
+## Day 9: February 6, 2021
+
+**Today's Progress:** Working on the webshop project. At the moment, the page with shopping cart is rendered when I click on the cart icon from either Products or ProductDetails page.
+
+At first I was getting an error when following the `'/cart'` route. Turned out the router was looking for a product named `'cart'`, as I specified the path `'/:product'` for the component that displays the current product's details. Changed the path to `'/products/:product'`, and all went as planned.
+
+Update: Finished almost all the basic functionality, apart from registration. Would be awesome to move the users info outside of the app, also add security.
+
+**Thoughts:** This app takes eternity to make...
+
+**Link to work:** Coming soon...
