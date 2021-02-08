@@ -85,3 +85,21 @@ Update: Finished almost all the basic functionality, apart from registration. Wo
 **Thoughts:** This app takes eternity to make...
 
 **Link to work:** Coming soon...
+
+## Day 10: February 7, 2021
+
+**Today's Progress:** Did a marathon working on my webshop simulation app: did functionality for the registration page, also for displaying username in the bottom, a bunch of improvements, a lot of design fixes... Ready to present.
+
+**Thoughts:** Maybe a bit of an overkill, this app. But mine :)
+
+**Link to work:** Coming soon...
+
+## Day 11: February 8, 2021
+
+**Today's Progress:** An extensive learning day with classes & FrauenLoop. Presented my app in the class, got a pat on the back. Still have to do a lot of tweaking. For example, realized that I have no idea what a normal shopping cart looks like inside :) I mean, elements in mine are slightly off, which could make a weird user experience. Anyway, I moved the project into my own repo.
+
+Watched Maria demonstrate creating Python scripts for a database setup.
+
+**Thoughts:** I wonder if I should continue presenting my stuff in the class or maybe sit quietly...
+
+**Link to work:** [BuyByeBuy webshop repo](https://github.com/olhanotolga/buybyebuy)
