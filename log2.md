@@ -103,3 +103,34 @@ Watched Maria demonstrate creating Python scripts for a database setup.
 **Thoughts:** I wonder if I should continue presenting my stuff in the class or maybe sit quietly...
 
 **Link to work:** [BuyByeBuy webshop repo](https://github.com/olhanotolga/buybyebuy)
+
+## Day 12: February 9, 2021
+
+**Today's Progress:** A stressful day: today we learned (at least tried to learn) Redux in the class. Although I could eventually follow today's Redux presentations (after a few iterations), I can't reproduce any of it on my own. It's too much new information for me to click.
+
+After getting totally frustrated, I had a call with a friend who managed to calm me down.
+
+Then I spent some time fixing the Countries API project:
+
+- [x] Added an animated 3rd-party loader
+- [x] Enabled hiding the dropdown filter when clicking outside of the container (used somebody's custom hook and integrated it into my component)
+- [x] Enabled fetching data only when the country name is set, which freed me from a series of errors in my console before anything loads
+
+Still left:
+
+- [ ] Design the 404 page
+- [ ] Check for the responsiveness
+- [ ] Try using SCSS for styles
+- [ ] Use reducers
+- [ ] Replace images with dummies on preload
+- [ ] Create a README
+- [ ] Check if the project's requirements are met
+- [ ] Deploy
+
+**Thoughts:** After the call with my buddy, I have the following takes-away:
+
+- I don't have to know everything, nobody does;
+- I don't have to do professional projects "like in real life" because real-life projects differ a lot;
+- I need to focus on theory and thinking and trying things out.
+
+**Link to work:** [CountryByCountry repo](https://github.com/olhanotolga/countrybycountry)
