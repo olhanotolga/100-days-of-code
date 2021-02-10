@@ -118,11 +118,14 @@ Then I spent some time fixing the Countries API project:
 
 Still left:
 
-- [ ] Design the 404 page
-- [ ] Check for the responsiveness
-- [ ] Try using SCSS for styles
+- [x] Design the 404 page
+- [ ] Go to homepage upon clicking on the name in the TL corner
 - [ ] Use reducers
+- [ ] Store theme choice in localStorage
+- [ ] Check for the responsiveness
+- [ ] Try using SCSS for styles / Styled Components
 - [ ] Replace images with dummies on preload
+- [ ] Change the favicon
 - [ ] Create a README
 - [ ] Check if the project's requirements are met
 - [ ] Deploy
@@ -132,5 +135,15 @@ Still left:
 - I don't have to know everything, nobody does;
 - I don't have to do professional projects "like in real life" because real-life projects differ a lot;
 - I need to focus on theory and thinking and trying things out.
+
+**Link to work:** [CountryByCountry repo](https://github.com/olhanotolga/countrybycountry)
+
+## Day 13: February 11, 2021
+
+**Today's Progress:** Started working in a 2-person team on a React Tetris game. We are following a tutorial but hope to refactor it later by adding reducers / using Redux / changing styles, etc.
+
+2nd part of the day: made a 404 page for my countries project. Will see if it doesn't look out of style. Updated the to-do list in the previous day log.
+
+**Thoughts:** The Tetris game is super complicated for me at this point (1 — super counter-intuitive; 2 — I don't have the mindset for games/pure logic yet) but extremely interesting!
 
 **Link to work:** [CountryByCountry repo](https://github.com/olhanotolga/countrybycountry)

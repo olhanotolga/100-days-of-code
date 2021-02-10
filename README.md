@@ -17,7 +17,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [My Log - Round 1](log1.md)
+* [My Log - Round 2](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
