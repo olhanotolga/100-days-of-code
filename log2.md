@@ -147,3 +147,17 @@ Still left:
 **Thoughts:** The Tetris game is super complicated for me at this point (1 — super counter-intuitive; 2 — I don't have the mindset for games/pure logic yet) but extremely interesting!
 
 **Link to work:** [CountryByCountry repo](https://github.com/olhanotolga/countrybycountry)
+
+## Day 14: February 13, 2021
+
+**Today's Progress:** There was no Feb 12th :)
+
+Been creating templates with Flask & Jinja for my Rent a Cat project. Created registration & login forms, added condions for the routes, sorted out the flash messages.
+
+Set up a Google Maps API key.
+
+Added a Kanban board with to-do cards for the Tetris project, so that I don't forget everything on Monday.
+
+**Thoughts:** Not having designs for the Rent a Cat project is slightly killing me.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
