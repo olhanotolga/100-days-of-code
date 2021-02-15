@@ -161,3 +161,11 @@ Added a Kanban board with to-do cards for the Tetris project, so that I don't fo
 **Thoughts:** Not having designs for the Rent a Cat project is slightly killing me.
 
 **Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 15: February 14, 2021
+
+**Today's Progress:** Watched Corey Schafer's tutorials and continued to build my Flask training project. This time a lot has been added: user registration (w/ adding to the database), conditional redirects, profile page and a possibility to edit one's account data from there, along with adding/changing profile picture. A lot of pip packages!
+
+**Thoughts:** Got overwhelmed today again because I have too many projects and too little time. I've fallen a bit behind the FrauenLoop schedule/class. Hope to finish it all some day.
+
+**Link to work:** [FlaskJournal repo](https://github.com/olhanotolga/flask-journal)
