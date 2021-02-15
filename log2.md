@@ -169,3 +169,13 @@ Added a Kanban board with to-do cards for the Tetris project, so that I don't fo
 **Thoughts:** Got overwhelmed today again because I have too many projects and too little time. I've fallen a bit behind the FrauenLoop schedule/class. Hope to finish it all some day.
 
 **Link to work:** [FlaskJournal repo](https://github.com/olhanotolga/flask-journal)
+
+## Day 16: February 15, 2021
+
+**Today's Progress:** Continued building Tetris with Christin. We finished the game, planned and sketched additional features like adding a how-to-play info block/popup, displaying an upcoming tetromino, introducing a pause button, adding control buttons for the mobile view, etc.
+
+Also: Google Maps API & SQLAlchemy+Flask magic at FrauenLoop.
+
+**Thoughts:** Got a few scares over GitHub collaboration processes. Need to practice that more.
+
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
