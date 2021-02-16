@@ -179,3 +179,13 @@ Also: Google Maps API & SQLAlchemy+Flask magic at FrauenLoop.
 **Thoughts:** Got a few scares over GitHub collaboration processes. Need to practice that more.
 
 **Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+
+## Day 17: February 16, 2021
+
+**Today's Progress:** More Tetris. Implemented the functionality to generate and display the upcoming tetromino. Used react-responsive library to display components and values conditionally depending on the screen size (width). Tomorrow is the styling and, hopefully, deployment day.
+
+Submitted my CV to 2 places. Just to see what happens.
+
+**Thoughts:** Job application process and all that stuff is extremely stressful and time-consuming (sum up, write, design, shorten). The work itself is much less so.
+
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
