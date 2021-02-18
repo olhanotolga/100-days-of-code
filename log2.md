@@ -189,3 +189,11 @@ Submitted my CV to 2 places. Just to see what happens.
 **Thoughts:** Job application process and all that stuff is extremely stressful and time-consuming (sum up, write, design, shorten). The work itself is much less so.
 
 **Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+
+## Day 18: February 17, 2021
+
+**Today's Progress:** More Tetris. Fixed bugs, resolved issues, was making the thing more responsive. Mostly worked via LiveShare (pair programming). Final push tomorrow!
+
+**Thoughts:** This game is a trap!
+
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
