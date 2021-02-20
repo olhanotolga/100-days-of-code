@@ -197,3 +197,32 @@ Submitted my CV to 2 places. Just to see what happens.
 **Thoughts:** This game is a trap!
 
 **Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+
+## Day 19: February 18, 2021
+
+**Today's Progress:** Final push with Tetris. Did a rather big cleanup, tried to implement dropping the tetro continuously with touch & hold but left it for the future. Now we are left with the README and deployment. And presentation on Tuesday.
+
+Continued with Corey Schafer's Flask tutorials, trying to catch up with FrauenLoop.
+
+Watched a recording of last week's job interviews talk with Taledo's CTO (Marcel). Quite nice and structured. It was a tiny bit of preparation before tomorrow's FL workshop. Main takeaways:
+
+1. always clarify the unclear (clarification == communication)
+2. ask yourself what asking what you're asking and saying what you're saying brings you
+
+**Thoughts:** Who am I? What do I aspire? Why? What are my goals/vision/mission?
+
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+
+## Day 20: February 19, 2021
+
+**Today's Progress:** Omg, read about the heap, stack, callback queue, and event loop yesterday. This is [part 1](https://js.plainenglish.io/a-beginners-guide-to-javascript-under-the-hood-bc60fc352163) and that's [part 2](https://js.plainenglish.io/a-beginners-guide-to-javascript-under-the-hood-part-2-89d34a6a09e1) of the article. Very nicely explained!
+
+Continued following Corey Schafer and his Flask blog tutorial. Added pagination.
+
+Attended a workshop on presenting myself as a job seeker. Thought about my vision (destination) and mission (process/activities).
+
+**Thoughts:** As for the Flask blog, I found it very interesting that it's SQLAlchemy that's responsible for the pagination.
+
+As for the workshop, I thought that I would love to help bring clarity into people's lives and help them make informed decisions, through smart tools, quality information, and access to it. From my side, I want my code to be smart and efficient, readable, and concise, and that's something I should be focusing on.
+
+**Link to work:** [FlaskJournal](https://github.com/olhanotolga/flask-journal)
