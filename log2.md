@@ -253,5 +253,12 @@ Watched Corey Schafer implement the reset password functionality and tried to do
 
 **Thoughts:** A lot of information!
 
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris) and [deployed Tetris](https://reactive-tetris.netlify.app/)
+
+## Day 24: February 23, 2021
+
+**Today's Progress:** Presented Tetris in class, then got feedback from Frannie about default scrolling behavior (when the browser window is shorter than the game screen, arrow keys do the vertical scrolling — every time one rotates or speeds up the tetromino!). This triggered a series of 'would be also nice' together with Christin, and we got stuck for good fixing, optimizing, and reshaping the layout...
+
+**Thoughts:** Tomorrow, the backend module starts, and I still haven't used reducers...
+
 **Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
-**Link to work:** [deployed Tetris](https://reactive-tetris.netlify.app/)
