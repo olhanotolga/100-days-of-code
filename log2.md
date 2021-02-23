@@ -226,3 +226,32 @@ Attended a workshop on presenting myself as a job seeker. Thought about my visio
 As for the workshop, I thought that I would love to help bring clarity into people's lives and help them make informed decisions, through smart tools, quality information, and access to it. From my side, I want my code to be smart and efficient, readable, and concise, and that's something I should be focusing on.
 
 **Link to work:** [FlaskJournal](https://github.com/olhanotolga/flask-journal)
+
+## Day 21: February 20, 2021
+
+**Today's Progress:** Added models to my flask project.
+
+**Thoughts:** That's really hard! I need to read about models and tables in SQLAlchemy and databases in general to figure out how I should structure the thing.
+
+**Link to work:** [Rent a Cat](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 22: February 21, 2021
+
+**Today's Progress:** Got all confused with my Flask project. Started to rethink the structure to make sense of it and be able to make decisions (design, structure, tools, etc.).
+
+**Thoughts:** To fight frustrations or to not allow it in the first place, always start with why (like in having the vision).
+
+**Link to work:** [Rent a Cat](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 23: February 22, 2021
+
+**Today's Progress:** Finished tetris by making the touch & hold on the mobile arrow down control, writing the README, and deploying it together with the classmate.
+
+Watched Maria (FrauenLoop mentor) do magic juggling data between Google Maps API, database (SQLAlchemy), and Flask backend by generating JSON endpoints on the go and reading them.
+
+Watched Corey Schafer implement the reset password functionality and tried to do it on my own with my gmail... Was painful, worked in the end (had to change the PW and launch the app from Terminal — need to debug more to see which one of those did it).
+
+**Thoughts:** A lot of information!
+
+**Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+**Link to work:** [deployed Tetris](https://reactive-tetris.netlify.app/)
