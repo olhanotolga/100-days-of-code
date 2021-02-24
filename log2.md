@@ -262,3 +262,19 @@ Watched Corey Schafer implement the reset password functionality and tried to do
 **Thoughts:** Tomorrow, the backend module starts, and I still haven't used reducers...
 
 **Link to work:** [Tetris repo](https://github.com/chmette/reactive-tetris)
+
+## Day 25: February 24, 2021
+
+**Today's Progress:**
+
+1. Started the backend module at DCI. A very exciting day: getting acquainted with Express.js, setting up a backend server, creating routes and returning different types of information through them, fetching data with a frontend client.
+
+2. Continued working on the Tetris layout: this time, I couldn't do much because of sudden resistance and a wave of apathy. It just doesn't work together anymore :(
+
+3. FrauenLoop part: talked to Frannie about databases and models, saw how she did a great job figuring out the structure and code implementation. Continued to follow Corey Schafer & his Flask blog tutorial.
+
+**Thoughts:** The node.js backend parts starts very similar to what we did with Flask. I felt like it's all coming together.
+
+On a different note, I should consider reducing my RAC project to a minimum because it's gotten too big. For example, leave out transactions for now. I can add columns to my database later.
+
+**Link to work:** [creating an API on localhost and fetching it exercise](https://github.com/olhanotolga/ds-01-hello-backend), [Reactive Tetris](https://github.com/chmette/reactive-tetris), [FlaskJournal](https://github.com/olhanotolga/flask-journal)
