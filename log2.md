@@ -278,3 +278,13 @@ Watched Corey Schafer implement the reset password functionality and tried to do
 On a different note, I should consider reducing my RAC project to a minimum because it's gotten too big. For example, leave out transactions for now. I can add columns to my database later.
 
 **Link to work:** [creating an API on localhost and fetching it exercise](https://github.com/olhanotolga/ds-01-hello-backend), [Reactive Tetris](https://github.com/chmette/reactive-tetris), [FlaskJournal](https://github.com/olhanotolga/flask-journal)
+
+## Day 26: February 25, 2021
+
+**Today's Progress:**
+
+Learned about POST requests and using the fetch() method with the second parameter on a login page (yes, it can be done with a POST request!).
+
+**Thoughts:** Realized I forgot how to work with react-router-dom (not that I ever worked with it properly), had to battle with routes, exchanging data between components, and conditional rendering. Of course, I could do everything much simpler in the end.
+
+**Link to work:** [branch olha](https://github.com/FbW36/ds-02-posting-data)
