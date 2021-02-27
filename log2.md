@@ -288,3 +288,24 @@ Learned about POST requests and using the fetch() method with the second paramet
 **Thoughts:** Realized I forgot how to work with react-router-dom (not that I ever worked with it properly), had to battle with routes, exchanging data between components, and conditional rendering. Of course, I could do everything much simpler in the end.
 
 **Link to work:** [branch olha](https://github.com/FbW36/ds-02-posting-data)
+
+## Day 27: February 26, 2021
+
+**Today's Progress:**
+
+1. Talked to Adrian about the final project. We've created an organization, initialized a project, and decided upon the first tasks: watch a course on Styled Components and write user stories.
+
+2. Had a coding session with Frannie and Jill, were solving a Chuck Norris challenge with Regex and binary numbers.
+
+**Thoughts:** Not much done today.
+
+**Link to work:** [Chuck Norris Push Ups Kata](https://www.codewars.com/kata/570564e838428f2eca001d73)
+
+## Day 28: February 27, 2021
+
+**Today's Progress:** Spent several hours starting my Rent a Cat project anew. Created a Kanban board on GitHub, defined the initial user stories, and started making wireframes in Figma.
+
+**Thoughts:** I decided to go with Figma because I might need it at some point in my life. If everyone's using it, maybe I should try as well. It was a very bumpy start until I watched an intro video. Now it's much clearer. It's super powerful but lacks all the colorful stuff and elements that I got with Canva.
+
+**Link to work:** [Rent a Cat](https://github.com/olhanotolga/rent-a-cat)
+
