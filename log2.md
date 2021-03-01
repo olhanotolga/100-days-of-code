@@ -309,3 +309,22 @@ Learned about POST requests and using the fetch() method with the second paramet
 
 **Link to work:** [Rent a Cat](https://github.com/olhanotolga/rent-a-cat)
 
+## Day 29: February 28, 2021
+
+**Today's Progress:** Finished the initial wireframes with Figma. Took a lot of time.
+
+**Thoughts:** Probably the thing I liked the most about Figma (apart from its endless customization possibilities) is the pencil feature!
+
+**Link to work:** [Rent a Cat wireframes](https://www.figma.com/file/SSuwDvGbyKlOmGK5jEsDmN/Mobile-wireframes?node-id=0%3A1)
+
+## Day 30: March 1, 2021
+
+**Today's Progress:** Continued backend with Express.js. Used an interim database solution with lowdb. Made GET, POST, PUT, DELETE requests.
+
+At FrauenLoop, it was all about troubleshooting today. Got a chance to look at people's code and think about it. Let's see how I approach it when my time comes :)
+
+Created a Jira project for simple-commitments. Wow, it was not that easy!
+
+**Thoughts:** Another rather opinionated tool to master: Jira. It has much more than we'll probably use but I hope we'll use as much as we can :)
+
+**Link to work:** [Todo server](https://github.com/olhanotolga/todo-server)
