@@ -328,3 +328,33 @@ Created a Jira project for simple-commitments. Wow, it was not that easy!
 **Thoughts:** Another rather opinionated tool to master: Jira. It has much more than we'll probably use but I hope we'll use as much as we can :)
 
 **Link to work:** [Todo server](https://github.com/olhanotolga/todo-server)
+
+## Day 31: March 2, 2021
+
+**Today's Progress:** An intense day at DCI with our new teacher and a fullstack todo client. Mainly followed along his livecoding.
+
+**Thoughts:** I'm writing this on Thursday, so I already forgot what I was doing on Tuesday, seems so long ago.
+
+**Link to work:** [Fullstack client](https://github.com/olhanotolga/fullstack-client)
+
+## Day 32: March 3, 2021
+
+**Today's Progress:** Today we had a job application workshop at DCI, which means mostly no coding but preparation of the CV and browsing jobs.
+
+Did a Chuck Norris coding challenge on Codewars. Wanted to be fancy and used a recursion but turned out I did not need it at all. Bummer!
+
+Watched a bit of a workshop on design systems. Started a template for Rent-a-Cat.
+
+**Thoughts:** I don't really have the mood for coding these days, my head is stuffed with planning, designing, and job search. All quite stressful.
+
+**Link to work:** Nothing to link to.
+
+## Day 33: March 4, 2021
+
+**Today's Progress:** Day 2 of the job application workshop, I would have preferred it to be a full day of coding. Added a lot of people on LinkedIn, received the nicest recommendation from a classmate <3 Passed the LinkedIn React assessment.
+
+Completed the "Design Systems with React & Storybook" course on FrontendMasters. A lot of new information!
+
+**Thoughts:** It was a great adventure, want more of that! Can't wait to implement all of that in practice!
+
+**Link to work:** Nothing to link to.
