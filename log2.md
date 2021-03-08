@@ -358,3 +358,42 @@ Completed the "Design Systems with React & Storybook" course on FrontendMasters.
 **Thoughts:** It was a great adventure, want more of that! Can't wait to implement all of that in practice!
 
 **Link to work:** Nothing to link to.
+
+## Day 34: March 5, 2021
+
+**Today's Progress:** Brainstormed functionality and defined the main concepts for the final project with classmate (Adrian) — used Miro for that + Jira for user stories.
+
+Codewars challenges with Frannie. Did a few. Forgot how to use Maps (data structure).
+
+**Thoughts:** I enjoy the planning part but the doing part is better.
+
+**Link to work:** Nothing to link to.
+
+## Day 35: March 6, 2021
+
+**Today's Progress:** Did a little bit of designing for Rent a Cat, exercised Python on SoloLearn.
+
+**Thoughts:** Felt guilty that I wasted the entire day doing nothing, mostly resting.
+
+**Link to work:** Nothing to link to.
+
+## Day 36: March 7, 2021
+
+**Today's Progress:** Found the primary, secondary, and tertiary colors for Rent a Cat — added them to my styles document on Figma.
+
+Updated database models in the project, created the skeleton of the index page.
+
+**Thoughts:** I'm thinking a lot about this project but I hestitate to actually work on it because it seems too big. I'm going to try bit by bit. For example, this is what I can do tomorrow and next week:
+
+- update / create skeletons for the basic templates
+- test login/registration pages
+- see if I got the models right
+- add map view
+- update routes with the necessary info, so that it all aligns with the DB
+- enable offers and requests
+- display offers and requests on the map
+- style offers and requests on the map
+- edit & delete offers/requests functionality
+- style the entire thing
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
