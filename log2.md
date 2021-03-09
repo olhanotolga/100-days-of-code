@@ -397,3 +397,21 @@ Updated database models in the project, created the skeleton of the index page.
 - style the entire thing
 
 **Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 37: March 8, 2021
+
+**Today's Progress:** Worked a little time with Rent a Cat. Sorting out routes, forms, and models.
+
+**Thoughts:** Spent some time figuring out how to render a link inside a label in a form generated with wtform. Dediced to listen to Pavel and replace it with an asterisk. (I wanted to put a label next to a checkbox, 'I agree to Terms' and link to Terms so that I have both a semantic link and a semantic label).
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 38: March 9, 2021
+
+**Today's Progress:** Writing middleware with Express, using Router. Did an exercise where I had to validate and edit/correct an object with POST requests. Interesting.
+
+Worked on Rent a Cat, started making templates and ended up creating, deleting, and fixing my database. Works for now. It will be a tiny bit easier to add, update, and render data tomorrow.
+
+**Thoughts:** Again, I spent much more time on Rent a Cat than I hoped to spend. More work for tomorrow.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
