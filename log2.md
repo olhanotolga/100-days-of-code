@@ -415,3 +415,87 @@ Worked on Rent a Cat, started making templates and ended up creating, deleting, 
 **Thoughts:** Again, I spent much more time on Rent a Cat than I hoped to spend. More work for tomorrow.
 
 **Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 39: March 10, 2021
+
+**Today's Progress:** Learning about databases at DCI. Played around with MongoDB, its cloud Atlas (is it a pun?) and Compass. A lot of downloads and installations :)
+
+Worked further on Rent a Cat, Set up the update profile page, and it's a mess! I realized I established the wrong relationships between my models and am trying to access model instances before creating them. Learning about One-to-Many and One-to-One relationships.
+
+**Thoughts:** Needless to say I thought it would be a breeze. But it's not. Especially with the two DB types.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 40: March 11, 2021
+
+**Today's Progress:** Dreamt of databases.
+
+At DCI, connecting to mongoDB with mongoose, creating schemas and models, doing queries within my API routes. Took some time to read documentation and figure out methods like updateMany() etc. Made a few typos which caused a few hours of my downtime.
+
+Continued to fight with those models in Rent a Cat.
+
+**Thoughts:** I'll need to simplify my RaC routes a bit and split the functionality (also strip it to the minimum). For example, I don't probably need the update profile feature at the moment. Instead, an option to create a profile and view it (or even only dashboard for now).
+
+User registers --> logs in --> create profile (+ cat sitter / cat keeper) --> dashboard --> write offer/request / see updates from other users...
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 41: March 12, 2021
+
+**Today's Progress:** Restructured the models once again, changed relationships between users & profiles, reset the DB, planned conditional rendering in routes.
+
+**Thoughts:** No problem solving session today, no final project discussion. Wanted to spend some more time with my project.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 42: March 13, 2021
+
+**Today's Progress:** Added profile types and preferred profile types on the profile creation page. Added simple functionality to create updates. Added validators for the start & end dates in the update description.
+
+**Thoughts:** Some more work done.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 43: March 14, 2021
+
+**Today's Progress:** Got my hands dirty with Google Maps API. Managed to only render the map on the View page and place an Alexanderplatz marker. Spent a lot of time fixing the issue of api_key having the value of undefined. Turned out I just needed to relaunch my terminal after setting the environment variable and my app after importing it...
+
+**Thoughts:** It's a bit frustrating, the amount of time these Google Maps require. But I knew it's not simple.
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 44: March 15, 2021
+
+**Today's Progress:** Wrote a seed script in the class to populate the DB. It involved creating an array of promises and resolving them all.
+
+With FrauenLoop, each of us (almost) presented what she has done over the past few weeks. I can see I'm doing pretty good.
+
+**Thoughts:** Moving slow and steady :) Google Maps API left to be conquered. And a bunch of ther stuff, of course :)
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
+
+## Day 45: March 16, 2021
+
+**Today's Progress:** Started working with the classmate on the backend for the Record Store group project. Created the main user routes and tested with Insomnia.
+
+**Thoughts:** Slow but steady. Didn't work on Rent a Cat today :(
+
+**Link to work:** [Record Store backend](https://github.com/TO-RecordStore/recordstore_backend)
+
+## Day 46: March 17, 2021
+
+**Today's Progress:** Finished the backend part of the Record Store project. Spent almost the entire day to populate the database with users (Faker.js) and records (Last.fm API). Were figuring out the asynchronous code (DB/API calls).
+
+**Thoughts:** Group work is pretty tiring but nice. I think I feel more at ease when working with someone else and am more prone to silly typos and inattentiveness. Maybe also to coming up with nice solutions :)
+
+**Link to work:** [Record Store backend](https://github.com/TO-RecordStore/recordstore_backend)
+
+## Day 47: March 18, 2021
+
+**Today's Progress:** Continued working on the Record Store client: created the structure (components and styled components), discussed functionality/architecture.
+
+Managed to plug in the Autocomplete class & create its instance in my Create Profile form of the Rent a Cat project. Used WTForms' hidden fields to grab latitude and longitude. Some progress!
+
+**Thoughts:** Very slow day with a push in the end. Google Maps API is vast and it's easy to get lost in it, however the information is plentiful. Learning: never call the input field "address" when using it with Google Maps API!
+
+**Link to work:** [Rent a Cat repo](https://github.com/olhanotolga/rent-a-cat)
